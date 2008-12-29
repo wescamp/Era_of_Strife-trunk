@@ -1,0 +1,6 @@
+Abilities, weapon specials and macros go here.
+
+Each ability should go into abilities.cfg.
+Each ALMA should go into amla.cfg.
+Special notes should go into special-notes.cfg
+Macros should be grouped as appropriate.

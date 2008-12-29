@@ -1,0 +1,3 @@
+Faction CFG's go here. The file format is (faction name) - (era)
+
+If you want to add a special faction, like a "hero's" faction or a AOH faction do it here.

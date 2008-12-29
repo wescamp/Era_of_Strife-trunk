@@ -1,0 +1,234 @@
+v0.20
+Graphics:
+-New frames for Saurian holy, healer, sage, warrior and hero
+-Cleaned up Spider shadows.
+-Replaced smithing hammer by newer one.
+-Armorer and smith sprite update.
+-'new' runesmith sprite. (mainline runesmith edit)
+-New image for Ice Shards attack of the Saurian Ice Lord
+-New minotaur sprites by Quietus.
+-New images for the Saurian Sage.
+Units:
+-Changed Repeater's melee from 9-3 to 7-4.
+-Gave Arblaster 2 more hitpoints. (61)
+-Sanitised 'dwarvishwheel' movetype, affects Ballista and Plainsrider.
+-Added the "Elemental Monarchs". (or at least part of them)
+-Renamed "Ice Missles" attack of the Saurian Ice Lord to "Ice Shards"
+-Added "ice missles" attack (6-5 pierce) to the Shockfrost.
+-Change Saurian Trainee's attacks:
+--shortsword -> dagger
+--thrown rock 6-1 -> throwing knives 3-2
+-Changed the "Guardian of the Sun"'s second attack to 10-3 arcane ranged. Hopefully this is closer to what was intended.
+-exchanged the HP of Assasin & Skulker
+Saurian re-/unbalcing:
+-Saurian Elementalist now has 4-3(impact, melee) staff; 5-4(fire, ranged) fireball; 8-3(cold, ranged) frigid aura and only 30% fire/cold def.
+-Soulmage has 4-2 melee
+-knife thrower now moves normal on fungus, has 29 HP(was 39) and costs 15g.
+-Lizard Rider now has 39 HP, 7-2(impact, melee) tail and 5-3(blade, melee) axe as attacks 6MP and costs 16g.
+The Lizard Rider is now less of a scout, but I thing since you have the spider you don't need this scout. ~Lizard
+-Lizard Master now has 47 HP, 15-2(impact, melee) tail, 11-3(blade, melee) axe and no ranged as attacks.
+-Saurians no longer use the 'freesaurian' movetype but the mainline 'lizard' one.
+-Rewrote most of the minotaur unit tree.
+
+Bugs:
+-Fixed interference with Imperial Era
+-Fixed eventide lineman's first strike.
+-Fixed lots of unit anims.
+Features:
+-Made the EoS campaign compatible.
+
+
+v0.18.2
+-Added pekka's new dwarvish axes and hammers.
+-Fixed the Lizard Rider bug that broke the whole era for some people.
+-Added 'power' and 'rpg' eras.
+
+~AI
+
+v0.18.a
+-Addition of Minotaur faction.
+-Broke up minotaur abilities and movetypes
+-Fixed minotaur images
+-Inline movetypes slated for centaur unit advancements.
+-Also placed a copy of the CFG file inside of the SVN so people don't need to
+write their own. >.> | They don't have to, _main.cfg does that. ~AI
+-For some reason the Minotaur elder and executioner .cfg files are refusing to work. For now I've removed them (they are third level units after all). Once I solve the issue they will be returned.
+
+~Jamini
+0400.01.06.2008
+
+v0.18
+<-- Other content please here!
+some fixes to the saurians
+
+~Lizard (?)
+
+(note, what is the point of the v0.18 splits?)
+Triththa:
+-Gave rusher line 2MP cost in shallow/swamp at cost of 1MP (still need a new plains-scout though)
+-Also reduced their HP by 7.
+-New descriptions and animations.
+-Ballista changed a bit (faster on plains), lowered defences.
+-Added a few HP to Guard and reduced cost some.
+-Removed quick trait from Shieldman line.
+-Re-added charger to leader list.
+-Added random_leader list, removed charger and guard from it.
+-Changed recruitment pattern.
+-Added plainsrider w/ sprite.
+-Increased smith line's damage:
+--Smith 7-2 to 9-2
+--Armorer 13-2 to 15-2
+--Runesmith 11-2 to 16-2
+--Runemaster 15-2 to 20-2
+-Rebalanced Runewarrior:
+--Runic hammer 18-2 to 17-2
+--Runic hatchet 8-2 to 18-1
+Eltireans:
+-Added Elerias's new sprites for hydromancer line.
+-Changed windrider line's race to windelemental.
+Saurians:
+-Reduced Ice Lord's pierce attack to 12-5.
+Other:
+-Now using the "versioned era" system to prevent OOS.
+-Many fixes
+
+~AI
+
+v0.17
+-Multiple balance passes to saurian faction.
+-Many name changes to saurian faction
+-Fixed Desperado attack order
+-Undocumented: AI added Heals +4 to entire herbalist line.
+
+~Jamini
+
+-Somewhat documented: Shield bash of shieldman line changed from 6/8/10-2 to 
+14/20/26-1 defend-only slow
+
+~AI
+
+v0.16
+-Add several Triththa sprites
+-New non-recruitable L3: Armored Cuttle Fish (for campaigns)
+-Shieldman cost increased to 20g
+
+-Bugfixes
+0347.21.05.2008
+
+~AI
+
+v0.15
+First try to update ? hope i didnt screw up anything
+
+Eltireans:
+
+-Lady of war ? removed defend only, made melee attack name "stiletto" and set 3-3 damage/number
+
+-Windrider ? race back to eltirean, set the only trait Elemental. Attack 7-2
+
+-Trait elemental ? renamed from undead to elemental
+
+0850.29.04.2008
+~Elerias
+
+v0.14
+Free Saurians:
+
+-Multiple Changes to free saurian faction.
+
+-Addition of Saurian Sage Portrit
+
+1834.27.04.2008
+
+v0.13
+-Changes to Eltireans
+Knight Errant cost: 14g
+Knight Errant Resistance(movetype):
++20% impact
++10% blade
+-10% pierce
++10% Fire
++10% Cold
+-10% Arcane
+
+Elementalist cost: 21g
+
+Wind Rider Traits: Elemental - This unit cannot be poisoned, drained, or plagued.
+Wind Rider HP: -5hp
+
+Lady 'o War Name: Something easier to say....
+Lady 'o War Melee Attack: Defense Only
+Lady 'o War Melee Attack Name: "Bayonet" (This must be changed! Two attacks with identical names screw up the animation filters.)
+Lady 'o War MP: -1 (Note, if this isn't done the Lady 'o War's L2's will be removed from the leader list due to abuse on many 2v2 maps. I forgot to mention that in my last pm)
+Lady 'o War Cost: 18g
+(Main unit line MP has been changed thoughout. Tempress still has 7MP)
+
+Diciple of Eltire: 25HP
+Diciple of Eltire: 32XP (22XP on 70%)
+
+Removed Temptress from leader list
+
+Fixed bad ID problem with Knight of the Sun and Sunlord
+
+Free Saurians
+-Reduced Evasion by 10% on many terrains for Lizard Rider
+-Increased Movement Cost over rough terrain significantly for Lizard Rider
+-Reduce impact resistance for Lizard rider by 10%
+-Reduce swamp saurian water defense to 60%
+
+Eventide-
+Reduced Swabbie MP by 1
+
+Hill Dwarves-
+Increased Rusher MP by 1
+Reduced Shieldman cost to 18
+Removed Charger from leader list
+
+Notes:
+This is a big step towards version a.1.0 folks. The intial release of EoS will be within a few days.
+
+0508.27.04.2008
+~Jami
+
+v0.12
+-Updated Triththa some more, fixed some small things.
+
+0358.26.04.2008
+~AI
+
+v0.11
+-Fixed text found in gloryseeker and some of it's advancements that was causing a parse error and CTD.
+
+02150.25.04.2008
+~Jami
+
+v0.09
+-Eltiearns added. A Major playtest is planned for this weekend as a pre-alpha blancing release.
+-Rusher image added
+-Lineman/Linewoman Image added.
+
+2320.22.04.2008
+~Jami
+
+v0.08
+-New Xbowman and smith standing frames. Changed Rusher movetype and increase guard cost (why?)
+~Jami
+
+v0.07
+-Emergancy Update: Removed conflicts with EoM regarding movetypes.
+~Jami
+
+v0.06
+-Poison removed from "Assassin" trainee trait.
+-Lizard Rider Pierce resist reduced to -20% (from 40%).
+-Potential fix for "Battle Tutor" Ability.
+-Reorganized files into a better folder system.
+-Altered Assassin Trait description to read more smoothly.
+-Altered Helpful Trait description to read more smoothly.
+-Added in Guard Trait, with modifications. (Gives ZOC,Steadfast, 30%+10 HP to trainee, reduces moves by 1 and removes ranged attack.)
+-Reduce Lizard Rider base HP to 35
+-Changed Bowmaiden Sprite Slightly
+-Changed Noct Maceman Sprite Slightly
+-Added Agressive Trait for trainee. This gives them the Dread Special, +1 damage, and regenerates +4
+~Jami
+

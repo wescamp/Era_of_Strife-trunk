@@ -1,0 +1,4 @@
+Era files go here. Naming convention is (eraname).cfg.
+To call our factions you should use
+
+{EOS_SIDE (era name) (faction)} inside of the files. Use strife.cfg as an example.

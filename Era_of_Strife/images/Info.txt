@@ -1,0 +1,3 @@
+All images for a faction go in their respective folder. Special weapon images go in the attacks folder. Halos go in the halos folder.
+
+changing images in 30+ unit CFG's is a HUGE hassle.

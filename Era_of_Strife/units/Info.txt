@@ -1,0 +1,3 @@
+unit folders and movetypes go here.
+
+All movetypes get lumped into the movetype folder. Each movetype should have it's own file with "foot" as the suffix, or something different that applies to the unit. (wheel, fly, swim, whatever)
