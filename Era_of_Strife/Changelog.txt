@@ -1,3 +1,6 @@
+v0.20a
+-Fixed a translation issue.
+
 v0.20
 Graphics:
 -New frames for Saurian holy, healer, sage, warrior and hero
