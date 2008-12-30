@@ -1,0 +1,2093 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-12-30 17:34+0100\n"
+"PO-Revision-Date: 2008-12-30 17:34+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. [era]: id=era_default_extended_{EXTENDED_ERA_VERSION}_eom_{ERA_OF_MYTHS_VERSION}_strife_{ERA_OF_STRIFE_VERSION}
+#: Era_of_Strife/eras/default+extended+eom+eos.cfg:28
+msgid "Default+EE+EoM+EoS"
+msgstr ""
+
+#. [era]: id=era_default_strife_{ERA_OF_STRIFE_VERSION}
+#: Era_of_Strife/eras/default+strife.cfg:4
+msgid "Default+Strife"
+msgstr ""
+
+#. [era]: id=era_strife_power_{ERA_OF_STRIFE_VERSION}
+#: Era_of_Strife/eras/power.cfg:4
+msgid "Great Strife"
+msgstr ""
+
+#. [era]: id=era_strife_rpg_{ERA_OF_STRIFE_VERSION}
+#: Era_of_Strife/eras/rpg.cfg:4
+msgid "Strife RPG"
+msgstr ""
+
+#. [era]: id=era_strife_{ERA_OF_STRIFE_VERSION}
+#: Era_of_Strife/eras/strife.cfg:4
+msgid "Era of Strife"
+msgstr ""
+
+#. [multiplayer_side]: id=eltireans, type=Raging Mistress
+#. [multiplayer_side]: id=eltireans, type=Ladyofwar
+#. [multiplayer_side]: id=eltireans, type=Fury
+#: Era_of_Strife/factions/eltirean-power.cfg:4
+#: Era_of_Strife/factions/eltirean-rpg.cfg:4
+#: Era_of_Strife/factions/eltirean-strife.cfg:4
+msgid "Eltireans"
+msgstr ""
+
+#. [multiplayer_side]: id=eventide, type=DiuKeenshot
+#. [multiplayer_side]: id=eventide, type=DiuBowMistress
+#. [multiplayer_side]: id=eventide, type=DiuBowmaid
+#: Era_of_Strife/factions/eventide-power.cfg:4
+#: Era_of_Strife/factions/eventide-strife.cfg:4
+#: Era_of_Strife/factions/eventide-rpg.cfg:4
+msgid "Eventide"
+msgstr ""
+
+#. [multiplayer_side]: id=minotaurs, type=Minotaur Shaman
+#. [multiplayer_side]: id=minotaurs, type=Minotaur Mystic
+#. [multiplayer_side]: id=minotaurs, type=Minotaur Elder
+#: Era_of_Strife/factions/minotaur-rpg.cfg:4
+#: Era_of_Strife/factions/minotaur-strife.cfg:4
+#: Era_of_Strife/factions/minotaur-power.cfg:4
+msgid "Minotaurs"
+msgstr ""
+
+#. [multiplayer_side]: id=saurians, type=Saurian Holy
+#. [multiplayer_side]: id=saurians, type=Saurian Mystic
+#. [multiplayer_side]: id=saurians, type=Saurian Sage
+#: Era_of_Strife/factions/saurian-power.cfg:4
+#: Era_of_Strife/factions/saurian-strife.cfg:5
+#: Era_of_Strife/factions/saurian-rpg.cfg:4
+msgid "Free Saurians"
+msgstr ""
+
+#. [multiplayer_side]: id=triththa, type=TR Dwarvish Runesmith
+#. [multiplayer_side]: id=triththa, type=TR Dwarvish Runemaster
+#. [multiplayer_side]: id=triththa, type=TR Dwarvish Smith
+#: Era_of_Strife/factions/triththa-strife.cfg:4
+#: Era_of_Strife/factions/triththa-power.cfg:4
+#: Era_of_Strife/factions/triththa-rpg.cfg:4
+msgid "Triththa"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Strife/macros/abilities.cfg:16
+msgid "heals +"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Strife/macros/abilities.cfg:17
+msgid "Heals +"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Strife/macros/abilities.cfg:19
+msgid ""
+": Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"A unit cared for by this healer may heal, or stop poison from taking effect "
+"for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#. [regenerate]: id=battletutor
+#: Era_of_Strife/macros/abilities.cfg:34
+msgid "battle tutor"
+msgstr ""
+
+#. [regenerate]: id=battletutor
+#: Era_of_Strife/macros/abilities.cfg:36
+msgid ""
+"Battle Tutor:\n"
+"This unit's ability to teach battle skills gives each adjacent allied unit a "
+"+1 to experience earned in battle."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:53 Era_of_Strife/macros/abilities.cfg:73
+msgid "1"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:85 Era_of_Strife/macros/abilities.cfg:88
+msgid "dauntless"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:87 Era_of_Strife/macros/abilities.cfg:90
+msgid ""
+"Dauntless:\n"
+"While attacking, this unit's resistances are doubled, up to a maximum of 50. "
+"Weaknesses are not affected."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:115
+msgid "deluminates"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:119
+msgid ""
+"Deluminates:\n"
+"This unit deluminates the surrounding area, making chaotic units fight "
+"better, and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dawn when it is "
+"day, and as if it were night when it is dawn."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:128
+#: Era_of_Strife/macros/abilities.cfg:131
+msgid "disrupts"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:130
+#: Era_of_Strife/macros/abilities.cfg:133
+msgid ""
+"Disrupts:\n"
+"Enemy units adjacent to this unit will have their resistances halved. "
+"Weaknesses are not affected."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:152
+msgid "divine health"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:153
+msgid ""
+"Divine Health: Due to this unit's relationship with its deity it is granted "
+"a magical body in which the magic is manifested as the ability to self heal. "
+"Thus this unit will be healed by 3 HP per turn, poison will not be prolonged "
+"or cured..."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:162
+msgid "divine health en"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:163
+msgid ""
+"Divine Health: Due to this unit's relationship with its deity it is granted "
+"a magical body in which the magic is manifested as the ability to self heal "
+"and is enhanced by this unit's blood thirsty lifestyle. Thus this unit will "
+"be healed by 6 HP per turn, poison will not be prolonged or cured..."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:174
+msgid "heals +2"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:177
+msgid ""
+"Heals +2: Allows the unit to heal adjacent friendly units at the beginning "
+"of each turn.\n"
+"A unit cared for by this healer may heal up to 2 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:192
+#: Era_of_Strife/macros/abilities.cfg:208
+msgid "protection"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:194
+msgid ""
+"Protection:\n"
+"Adjacent units of this side receive a +10% bonus to all resistances (up to a "
+"maximum of 60%)."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:210
+msgid ""
+"Protection:\n"
+"Adjacent units of this side receive a +20% bonus to all resistances (up to a "
+"maximum of 60%)."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:222
+msgid "regenerates +"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:224
+msgid ""
+"Regenerates:\n"
+"The unit will heal itself "
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:224
+msgid ""
+" HP per turn. If it is poisoned, it will remove the poison instead of "
+"healing."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:235
+msgid "supplies"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:237
+msgid ""
+"Supplies:\n"
+"This unit supplies nearby allies with superior weapons, making their attacks "
+"do 25% more damage."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:249
+#: Era_of_Strife/macros/abilities.cfg:250
+msgid "swamp prowl"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:254
+#: Era_of_Strife/macros/abilities.cfg:258
+msgid ""
+"Swamp Prowl:\n"
+"This unit can hide in swamps, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in a swamp, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:272
+#: Era_of_Strife/macros/abilities.cfg:277
+msgid "translucent"
+msgstr ""
+
+#: Era_of_Strife/macros/abilities.cfg:276
+#: Era_of_Strife/macros/abilities.cfg:281
+msgid ""
+"Translucent:\n"
+"The unit is invisible as long as it is at least 3 hexes away from all non-"
+"translucent units.\n"
+"\n"
+"Enemy units cannot see this unit if it is hidden.  Any enemy unit that runs "
+"directly into this unit immediately loses all its remaining movement."
+msgstr ""
+
+#. [advancement]: id=speed
+#: Era_of_Strife/macros/amla.cfg:7
+msgid "+1 movement"
+msgstr ""
+
+#. [advancement]: id=firepower
+#: Era_of_Strife/macros/amla.cfg:20
+msgid " damage to all attacks"
+msgstr ""
+
+#. [advancement]: id=firepower
+#: Era_of_Strife/macros/amla.cfg:20
+msgid "+"
+msgstr ""
+
+#. [advancement]: id=armor
+#: Era_of_Strife/macros/amla.cfg:33
+msgid "+5 hitpoints"
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:5
+msgid ""
+" Due to this unit's relationship with its deity it is granted a magical body "
+"in which the magic is manifested as self-healing and thus this unit recovers "
+"3 HP per turn."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:8
+msgid ""
+" Due to this unit's relationship with its deity it is granted a magical body "
+"in which the magic is manifested as self-healing, this is enhanced by this "
+"unit's blood thirsty lifestyle and thus this unit recovers 6 HP per turn."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:11
+msgid ""
+" This unit will heal its allies by 5 HP per turn, however it will only "
+"prolong the effects of poison not cure it..."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:14
+msgid ""
+" This unit can fly over the terrain and over any impediments such as the "
+"snow, chasms and sand..."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:17
+msgid ""
+" This unit can hide in swamps, and remain undetected by its enemies. Enemy "
+"units cannot see this unit while it is in a swamp, except if they have units "
+"next to it, and any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:23
+msgid ""
+" The dread attack of this unit, when used offensively scare the defender, "
+"lowering the damage of his retaliation."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:27
+msgid ""
+" This unit drains health from weaker living units, healing itself for half "
+"the amount of damage it deals (rounded down).\n"
+"It only work on Level 0 Units, on attack."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:30
+msgid ""
+" This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:33
+msgid ""
+" This unit will give advice on battle tactics and whatnot to its allies, "
+"thus the unit that was given the advice will gain extra XP whenever it gains "
+"XP in battle."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:36
+msgid " Some of this unit's attacks are not available except on defense."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:39
+msgid ""
+" This unit's resistances are doubled to the point of 50% resistance, "
+"weaknesses are not affected."
+msgstr ""
+
+#: Era_of_Strife/macros/special-notes.cfg:42
+msgid ""
+" A unit slain by this unit's Soulbinding attacks will have its soul trapped "
+"in the caster's spell, thus is forced to serve the caster as an undead "
+"minion."
+msgstr ""
+
+#. [trait]: id=trait_elemental
+#: Era_of_Strife/macros/traits.cfg:43
+msgid "elemental"
+msgstr ""
+
+#. [trait]: id=trait_elemental
+#: Era_of_Strife/macros/traits.cfg:44
+msgid "female^elemental"
+msgstr ""
+
+#. [trait]: id=trait_elemental
+#: Era_of_Strife/macros/traits.cfg:45
+msgid "Immune to drain, poison and plague"
+msgstr ""
+
+#. [trait]: id=trait_assassin
+#: Era_of_Strife/macros/traits.cfg:56
+msgid "assassin"
+msgstr ""
+
+#. [trait]: id=trait_assassin
+#: Era_of_Strife/macros/traits.cfg:57
+msgid "female^assassin"
+msgstr ""
+
+#. [trait]: id=trait_assassin
+#: Era_of_Strife/macros/traits.cfg:58
+msgid "Backstab, Nightstalk, Concealment"
+msgstr ""
+
+#. [trait]: id=trait_helpful
+#: Era_of_Strife/macros/traits.cfg:86
+msgid "helpful"
+msgstr ""
+
+#. [trait]: id=trait_helpful
+#: Era_of_Strife/macros/traits.cfg:87
+msgid "female^helpful"
+msgstr ""
+
+#. [trait]: id=trait_helpful
+#: Era_of_Strife/macros/traits.cfg:88
+msgid "Protection and healing +4."
+msgstr ""
+
+#. [trait]: id=trait_guard
+#: Era_of_Strife/macros/traits.cfg:104
+msgid "guard"
+msgstr ""
+
+#. [trait]: id=trait_guard
+#: Era_of_Strife/macros/traits.cfg:105
+msgid "female^guard"
+msgstr ""
+
+#. [trait]: id=trait_guard
+#: Era_of_Strife/macros/traits.cfg:106
+msgid "Has ZoC, no ranged attacks."
+msgstr ""
+
+#. [trait]: id=trait_agressive
+#: Era_of_Strife/macros/traits.cfg:147
+msgid "aggressive"
+msgstr ""
+
+#. [trait]: id=trait_agressive
+#: Era_of_Strife/macros/traits.cfg:148
+msgid "female^aggressive"
+msgstr ""
+
+#. [trait]: id=trait_agressive
+#: Era_of_Strife/macros/traits.cfg:149
+msgid "Regenerates, has dread on melee."
+msgstr ""
+
+#. [berserk]
+#: Era_of_Strife/macros/weapon-specials.cfg:6
+#: Era_of_Strife/macros/weapon-specials.cfg:7
+msgid "dissolve"
+msgstr ""
+
+#. [berserk]
+#: Era_of_Strife/macros/weapon-specials.cfg:8
+#: Era_of_Strife/macros/weapon-specials.cfg:9
+msgid "This Weapon special does something."
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:24
+#: Era_of_Strife/macros/weapon-specials.cfg:25
+msgid "dread"
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:27
+#: Era_of_Strife/macros/weapon-specials.cfg:29
+msgid ""
+"Dread:\n"
+"When this attack is used offensively, this unit takes one third less damage "
+"in retaliation."
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:41
+msgid "leech"
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:44
+msgid ""
+"Leech:\n"
+"This unit drains health from weaker living units, healing itself for half "
+"the amount of damage it deals (rounded down).\n"
+"It only work on Level 0 Units, on attack."
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:57
+msgid "soulbind"
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:59
+#: Era_of_Strife/macros/weapon-specials.cfg:61
+msgid ""
+"Soulbind:\n"
+"Units killed by this attack have their souls frozen in this world, bound to "
+"the will of their killer."
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:70
+msgid "defend only"
+msgstr ""
+
+#: Era_of_Strife/macros/weapon-specials.cfg:72
+#: Era_of_Strife/macros/weapon-specials.cfg:74
+msgid ""
+"Defend only:\n"
+"This attack is not available except on defense."
+msgstr ""
+
+#. [race]: id=cuttlefish, description=
+#: Era_of_Strife/races/Cuttlefish.cfg:4 Era_of_Strife/races/Cuttlefish.cfg:5
+msgid "race^Cuttlefish"
+msgstr ""
+
+#. [race]: id=windelemental
+#: Era_of_Strife/races/Elemental.cfg:4
+msgid "race^Wind Elemental"
+msgstr ""
+
+#. [race]: id=windelemental
+#: Era_of_Strife/races/Elemental.cfg:5
+msgid "race^Elementals"
+msgstr ""
+
+#. [race]: id=eltirean
+#: Era_of_Strife/races/Eltirean.cfg:4
+msgid "race^Eltirean"
+msgstr ""
+
+#. [race]: id=eltirean
+#: Era_of_Strife/races/Eltirean.cfg:5
+msgid "race^Eltireans"
+msgstr ""
+
+#. [race]: id=gnolls
+#: Era_of_Strife/races/Gnolls.cfg:4
+msgid "race^Gnoll"
+msgstr ""
+
+#. [race]: id=gnolls
+#: Era_of_Strife/races/Gnolls.cfg:5
+msgid "race^Gnolls"
+msgstr ""
+
+#. [race]: id=gnolls
+#: Era_of_Strife/races/Gnolls.cfg:8
+msgid ""
+"Gnolls are humanoid hyenas which live in the swamps of the Silver Lands. "
+"They are known for their aptitude in the fine art of archery and for their "
+"ability to conceal themselves in swampy terrain. Gnolls are often associated "
+"with the Minotaurs, mainly due to the fact Minotaurs often hire Gnolls as "
+"mercenaries."
+msgstr ""
+
+#. [race]: id=minotaurs
+#: Era_of_Strife/races/Minotaurs.cfg:4
+msgid "race^Minotaur"
+msgstr ""
+
+#. [race]: id=minotaurs
+#: Era_of_Strife/races/Minotaurs.cfg:5
+msgid "race^Minotaurs"
+msgstr ""
+
+#. [race]: id=minotaurs
+#: Era_of_Strife/races/Minotaurs.cfg:12
+msgid ""
+"The Minotaurs are fearful creatures which are of ancient origin, they used "
+"to be humans which lived in the ancient times on the Great Continent, but a "
+"curse was placed upon the ancient civilization of these humans due to their "
+"disobedience towards their deity and creator. However some of the cursed "
+"ones prayed to their deity for forgiveness and therefore were rewarded with "
+"the inability to die by aging and therefore could only be killed by other "
+"means.\n"
+"\n"
+"A minotaur's body is basically a fusion between that of a bull and a human. "
+"They also possess immense strength and some possess magical abilities "
+"granted by a higher relationship with their deity. The minotaurs even "
+"without a greater relationship with their deity are very magical creatures "
+"due to their prayers for forgiveness. This magic is manifested as the "
+"inability to die by aging and therefore the minotaurs' bodies heal very "
+"quickly.\n"
+"\n"
+"Minotaurs fight well in forests and mountains but fight poorly in open "
+"fields, and especially in water and most of them are very slow but sturdy."
+msgstr ""
+
+#. [unit_type]: id=TR Armored Cuttle Fish, race=cuttlefish
+#: Era_of_Strife/units/cuttlefish/Armored.cfg:4
+msgid "Armored Cuttle Fish"
+msgstr ""
+
+#. [unit_type]: id=TR Armored Cuttle Fish, race=cuttlefish
+#: Era_of_Strife/units/cuttlefish/Armored.cfg:18
+msgid ""
+"Cuttle Fish are gigantic creatures of the seas. This particular one is "
+"covered in steel, which makes it a much stronger opponent. Thankfully, it "
+"also makes it significantly slower."
+msgstr ""
+
+#. [unit_type]: id=TR Young Cuttle Fish, race=cuttlefish
+#: Era_of_Strife/units/cuttlefish/Young.cfg:7
+msgid "Young Cuttle Fish"
+msgstr ""
+
+#. [unit_type]: id=TR Young Cuttle Fish, race=cuttlefish
+#: Era_of_Strife/units/cuttlefish/Young.cfg:22
+msgid ""
+"It is a time-honoured tradition to have bodies of water near dwarvish "
+"settlements be guarded by tentacled creatures. Outsiders have oft questioned "
+"the practicality and safety of such arrangements, but the dwarves of "
+"triththa have learned that cuttlefish are quite intelligent and when raised "
+"from birth, can be taught to follow orders.\n"
+"\n"
+"The trick to finding a young cuttlefish is knowing the colour of their "
+"shell. Young ones still have a softer and weaker one, that has a pinkish hue."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Arblaster, race=dwarf
+#: Era_of_Strife/units/dwarves/Arblaster.cfg:4
+msgid "Dwarvish Arblaster"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Arblaster, race=dwarf
+#: Era_of_Strife/units/dwarves/Arblaster.cfg:19
+msgid ""
+"When the dwarves of Triththa turned to crossbows, it was only natural that "
+"they would apply their famed craftsmanship and push the design to it's very "
+"limit. The result is the arblast, a large crossbow made mostly out of steel "
+"that fires with tremendous force and great accuracy."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Armorer, race=dwarf
+#: Era_of_Strife/units/dwarves/Armorer.cfg:4
+msgid "Dwarvish Armorer"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Armorer, race=dwarf
+#: Era_of_Strife/units/dwarves/Armorer.cfg:19
+msgid ""
+"Dwarvish armorers are the driving force behind the great dwarven armies, "
+"supplying the fighters with their weapons. An Armorer can help nearby allies "
+"to fight more effectively, though they can hold their own as well."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Ballista, race=mechanical
+#: Era_of_Strife/units/dwarves/Ballista.cfg:6
+msgid "Dwarvish Ballista"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Ballista, race=mechanical
+#: Era_of_Strife/units/dwarves/Ballista.cfg:25
+msgid ""
+"The ultimate crossbow, a ballista is almost guaranteed to kill anything that "
+"is hit by one of it's massive bolts. It is a large and cumbersome weapon, "
+"but dwarves somehow manage to move it over mountains and even through "
+"caves.\n"
+"\n"
+"The operators of ballistae like to tinker with their machines, which has a "
+"wide variety of results."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Charger, race=dwarf
+#: Era_of_Strife/units/dwarves/Charger.cfg:4
+msgid "Dwarvish Charger"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Charger, race=dwarf
+#: Era_of_Strife/units/dwarves/Charger.cfg:19
+msgid ""
+"Charging at an enemy with only a shield is dangerous business and though "
+"charges are sometimes necessary, chargers expand their weaponry with a "
+"standard axe, allowing them a safer way to fight."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Strife/units/dwarves/Shieldman.cfg:39
+#: Era_of_Strife/units/dwarves/Linebreaker.cfg:32
+#: Era_of_Strife/units/dwarves/Rusher.cfg:31
+#: Era_of_Strife/units/dwarves/Guard.cfg:39
+#: Era_of_Strife/units/dwarves/Defender.cfg:48
+#: Era_of_Strife/units/dwarves/Charger.cfg:31
+#: Era_of_Strife/units/saurians/Swamp_Guard.cfg:49
+#: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:50
+msgid "shield"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Compounder, race=dwarf
+#: Era_of_Strife/units/dwarves/Compounder.cfg:4
+msgid "Dwarvish Compounder"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Compounder, race=dwarf
+#: Era_of_Strife/units/dwarves/Compounder.cfg:20
+msgid ""
+"Compounder is the name given to these dwarves by their orcish enemies. It is "
+"unknown what the reason for this name is, though it probably has to do with "
+"their weapons, which are much more powerful than an ordinary crossbow.\n"
+"\n"
+"Some speculate that the sole reason orcish clans keep invading Triththa is "
+"to supply their troops with dwarvish weapons, weapons of a quality they are "
+"unable to match."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Crossbowman, race=dwarf
+#: Era_of_Strife/units/dwarves/Crossbowman.cfg:4
+msgid "Dwarvish Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Crossbowman, race=dwarf
+#: Era_of_Strife/units/dwarves/Crossbowman.cfg:19
+msgid ""
+"With the knowledge of a thunderstick's creation long lost due to lack of "
+"lack of materials and needing a ranged weapon, the dwarves of Triththa "
+"turned to more conventional weapons."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Defender, race=dwarf
+#: Era_of_Strife/units/dwarves/Defender.cfg:4
+msgid "Dwarvish Defender"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Defender, race=dwarf
+#: Era_of_Strife/units/dwarves/Defender.cfg:25
+msgid ""
+"The pinnacle of dwarvish Guards, defenders carry specially crafted runic "
+"shields, making them almost impossible to dislodge from any position they "
+"have taken, even by magic users."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Guard, race=dwarf
+#: Era_of_Strife/units/dwarves/Guard.cfg:4
+msgid "Dwarvish Guard"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Guard, race=dwarf
+#: Era_of_Strife/units/dwarves/Guard.cfg:24
+msgid ""
+"It is after numerous battles that an experienced Shieldman is awarded the "
+"title of Guard and is charged with protecting ever more important assets of "
+"Triththa. Their increasing skill makes that removing a Guard from his "
+"emplacement is no easy task."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Linebreaker, race=dwarf
+#: Era_of_Strife/units/dwarves/Linebreaker.cfg:4
+msgid "Dwarvish Linebreaker"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Linebreaker, race=dwarf
+#: Era_of_Strife/units/dwarves/Linebreaker.cfg:20
+msgid ""
+"Easily as skilled ordinary fighters with the axe, linebreakers are difficult "
+"to remove from the positions they so quickly occupy. When necessary, they "
+"live up to their name, breaking apart defensive lines with well-placed "
+"charges."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Plainsrider, race=mechanical
+#: Era_of_Strife/units/dwarves/Plainsrider.cfg:4
+msgid "Dwarvish Plainsrider"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Plainsrider, race=mechanical
+#: Era_of_Strife/units/dwarves/Plainsrider.cfg:23
+msgid ""
+"While through mountains, dwarvish runners are matched in speed only by "
+"birds, on flat ground, their small stature limits their pace. So when "
+"requirements arose for long-range reconnaissance across vast stretches of "
+"flatlands, a new tool was needed.\n"
+"\n"
+"Balanced in a lightweight steel chassis connecting four wheels is a wooden "
+"cabin just large enough to house a dwarf. Moving at high speed, it runs of "
+"the dwarf's own strength plus another source that the engineers of Triththa "
+"are unwilling to disclose even to their brethren. Though it makes for a "
+"light vehicle, the size of the machine limits the occupant's weaponry to a "
+"small axe and a similar sized, slow-loading but powerful crossbow."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Repeater, race=dwarf
+#: Era_of_Strife/units/dwarves/Repeater.cfg:4
+msgid "Dwarvish Repeater"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Repeater, race=dwarf
+#: Era_of_Strife/units/dwarves/Repeater.cfg:19
+msgid ""
+"Many have speculated about the mysterious devices or magics that allow "
+"dwarves to fire these weapons as fast as elves can fire their bows. Whatever "
+"the cause, the result is an instrument that spews death at a terrifying rate."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runefighter, race=dwarf
+#: Era_of_Strife/units/dwarves/Runefighter.cfg:4
+msgid "Dwarvish Runefighter"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runefighter, race=dwarf
+#: Era_of_Strife/units/dwarves/Runefighter.cfg:19
+msgid ""
+"Though many fighters choose to outfit themselves with steel armor, some pick "
+"a different path and focus their attention on weaponry. Specifically, runic "
+"weaponry that almost always finds its target."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Strife/units/dwarves/Runewarrior.cfg:27
+#: Era_of_Strife/units/dwarves/Runefighter.cfg:24
+msgid "runic axe"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Strife/units/dwarves/Runesmith.cfg:23
+#: Era_of_Strife/units/dwarves/Runewarrior.cfg:39
+#: Era_of_Strife/units/dwarves/Runefighter.cfg:36
+#: Era_of_Strife/units/dwarves/Runemaster.cfg:24
+msgid "runic hammer"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runemaster, race=dwarf
+#: Era_of_Strife/units/dwarves/Runemaster.cfg:4
+msgid "Dwarvish Runemaster"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runemaster, race=dwarf
+#: Era_of_Strife/units/dwarves/Runemaster.cfg:19
+msgid ""
+"Though oft used in battle, the ability to punch straight through defences is "
+"only the most obvious usage of runic weapons. A true runemaster can put his "
+"skills to terrifying use, the conjuring of deadly bolts of lightning being "
+"just one of their many applications."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Strife/units/dwarves/Runemaster.cfg:36
+msgid "lightning bolt"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runesmith, race=dwarf
+#: Era_of_Strife/units/dwarves/Runesmith.cfg:4
+msgid "Dwarvish Runesmith"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runesmith, race=dwarf
+#: Era_of_Strife/units/dwarves/Runesmith.cfg:18
+msgid ""
+"Skilled smiths oft apprentice themselves to runemasters to learn the art of "
+"runesmithing, for the hard-won knowledge, accumulated over many generations, "
+"is not easy to grasp. Their runic hammers greatly aid them in the smithing "
+"of weapons, but can also be put to good use in combat."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runewarrior, race=dwarf
+#: Era_of_Strife/units/dwarves/Runewarrior.cfg:4
+msgid "Dwarvish Runewarrior"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Runewarrior, race=dwarf
+#: Era_of_Strife/units/dwarves/Runewarrior.cfg:19
+msgid ""
+"Given the expense and effort of carving runes, it is rare to see them on "
+"projectile weaponry. Only the greatest of dwarven warriors will be seen "
+"throwing runic axes at their enemies, a sight that is usually followed by "
+"the death of the target."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Strife/units/dwarves/Runewarrior.cfg:51
+msgid "runic hatchet"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Rusher, race=dwarf
+#: Era_of_Strife/units/dwarves/Rusher.cfg:4
+msgid "Dwarvish Rusher"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Rusher, race=dwarf
+#: Era_of_Strife/units/dwarves/Rusher.cfg:20
+msgid ""
+"The fastest dwarves are tasked with racing to important positions and "
+"holding them while the rest of the army catches up. Should the location "
+"already be occupied, they usually attempt to bash their opponent out of the "
+"way with their shield."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Shieldman, race=dwarf
+#: Era_of_Strife/units/dwarves/Shieldman.cfg:4
+msgid "Dwarvish Shieldman"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Shieldman, race=dwarf
+#: Era_of_Strife/units/dwarves/Shieldman.cfg:25
+msgid ""
+"The dwarves of Triththa learned long ago that defending their land depended "
+"on warriors that would hold the lines, even in open ground. Essential to "
+"this are heavy shields that can be bashed into an opponent's face."
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Smith, race=dwarf
+#: Era_of_Strife/units/dwarves/Smith.cfg:4
+msgid "Dwarvish Smith"
+msgstr ""
+
+#. [unit_type]: id=TR Dwarvish Smith, race=dwarf
+#: Era_of_Strife/units/dwarves/Smith.cfg:19
+msgid ""
+"Smiths are the craftsmen that make the technological marvels that the "
+"dwarvish race is rightly so famous for. Though it is uncommon to see one in "
+"battle, they wield their smithing hammers with unrelenting ferocity."
+msgstr ""
+
+#. [unit_type]: id=Archbishop, race=eltirean
+#: Era_of_Strife/units/eltireans/Archbishop.cfg:4
+msgid "Archbishop of Eltire"
+msgstr ""
+
+#. [unit_type]: id=Bishop, race=eltirean
+#. [unit_type]: id=Sky Captain, race=eltirean
+#. [unit_type]: id=Crusher, race=eltirean
+#. [unit_type]: id=Calmblade, race=eltirean
+#. [unit_type]: id=Wind Strider, race=windelemental
+#. [unit_type]: id=Archbishop, race=eltirean
+#. [unit_type]: id=Patrol Captain, race=eltirean
+#. [unit_type]: id=Whirlpool Lord, race=eltirean
+#. [unit_type]: id=Destroyer, race=eltirean
+#. [unit_type]: id=Lightbringer, race=eltirean
+#. [unit_type]: id=Frostwalker, race=eltirean
+#. [unit_type]: id=Hydromonger, race=eltirean
+#. [unit_type]: id=Elementalist, race=eltirean
+#. [unit_type]: id=Pyromancer, race=eltirean
+#. [unit_type]: id=Hydromancer, race=eltirean
+#. [unit_type]: id=Swamp Warrior, race=lizard
+#. [unit_type]: id=Swamp Saurian, race=lizard
+#. [unit_type]: id=Saurian Sage, race=lizard
+#. [unit_type]: id=Free Tarantula, race=monster
+#. [unit_type]: id=Saurian Ice Lord, race=lizard
+#. [unit_type]: id=Swamp Guard, race=lizard
+#. [unit_type]: id=Saurian Elementalist, race=lizard
+#. [unit_type]: id=Saurian Shockfrost, race=lizard
+#. [unit_type]: id=Swamp Fighter, race=lizard
+#. [unit_type]: id=Saurian Warrior, race=lizard
+#. [unit_type]: id=Saurian Trainee, race=lizard
+#. [unit_type]: id=Swamp Margrave, race=lizard
+#. [unit_type]: id=Saurian Lizard Rider, race=lizard
+#. [unit_type]: id=Saurian Holy, race=lizard
+#. [unit_type]: id=Saurian Mystic, race=lizard
+#. [unit_type]: id=Saurian Assassin, race=lizard
+#. [unit_type]: id=Saurian Hero, race=lizard
+#. [unit_type]: id=Saurian Killer, race=lizard
+#. [unit_type]: id=Saurian Healer, race=lizard
+#. [unit_type]: id=Saurian Lizard Master, race=lizard
+#. [unit_type]: id=Saurian Knife thrower, race=lizard
+#. [unit_type]: id=Saurian Frosty, race=lizard
+#: Era_of_Strife/units/eltireans/Bishop.cfg:18
+#: Era_of_Strife/units/eltireans/Sky_Captain.cfg:18
+#: Era_of_Strife/units/eltireans/Crusher.cfg:18
+#: Era_of_Strife/units/eltireans/Calmblade.cfg:18
+#: Era_of_Strife/units/eltireans/Wind_Strider.cfg:19
+#: Era_of_Strife/units/eltireans/Archbishop.cfg:19
+#: Era_of_Strife/units/eltireans/Patrol_Captain.cfg:18
+#: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:19
+#: Era_of_Strife/units/eltireans/Destroyer.cfg:19
+#: Era_of_Strife/units/eltireans/Lightbringer.cfg:19
+#: Era_of_Strife/units/eltireans/Frostwalker.cfg:19
+#: Era_of_Strife/units/eltireans/Hydromonger.cfg:18
+#: Era_of_Strife/units/eltireans/Elementalist.cfg:18
+#: Era_of_Strife/units/eltireans/Pyromancer.cfg:18
+#: Era_of_Strife/units/eltireans/Hydromancer.cfg:18
+#: Era_of_Strife/units/saurians/Swamp_Warrior.cfg:19
+#: Era_of_Strife/units/saurians/Swamp_Saurian.cfg:18
+#: Era_of_Strife/units/saurians/Saurian_Sage.cfg:19
+#: Era_of_Strife/units/saurians/Tarantula.cfg:21
+#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:30
+#: Era_of_Strife/units/saurians/Swamp_Guard.cfg:32
+#: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:27
+#: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:29
+#: Era_of_Strife/units/saurians/Swamp_Fighter.cfg:18
+#: Era_of_Strife/units/saurians/Saurian_Warrior.cfg:19
+#: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:20
+#: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:33
+#: Era_of_Strife/units/saurians/Lizard_Rider.cfg:20
+#: Era_of_Strife/units/saurians/Saurian_Holy.cfg:21
+#: Era_of_Strife/units/saurians/Saurian_Mystic.cfg:20
+#: Era_of_Strife/units/saurians/Saurian_Assassin.cfg:26
+#: Era_of_Strife/units/saurians/Saurian_Hero.cfg:20
+#: Era_of_Strife/units/saurians/Saurian_Skulker.cfg:25
+#: Era_of_Strife/units/saurians/Saurian_Healer.cfg:20
+#: Era_of_Strife/units/saurians/Lizard_Master.cfg:20
+#: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:26
+#: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:29
+msgid "..."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Strife/units/eltireans/Bishop.cfg:26
+#: Era_of_Strife/units/eltireans/Archbishop.cfg:27
+msgid "lightbeam"
+msgstr ""
+
+#. [unit_type]: id=Bishop, race=eltirean
+#: Era_of_Strife/units/eltireans/Bishop.cfg:4
+msgid "Bishop of Eltire"
+msgstr ""
+
+#. [unit_type]: id=Calmblade, race=eltirean
+#: Era_of_Strife/units/eltireans/Calmblade.cfg:4
+msgid "Calmblade"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Strife/units/eltireans/Calmblade.cfg:34
+#: Era_of_Strife/units/eltireans/Frostwalker.cfg:35
+msgid "coldblade"
+msgstr ""
+
+#. [unit_type]: id=Crusher, race=eltirean
+#: Era_of_Strife/units/eltireans/Crusher.cfg:4
+msgid "Crusher"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Strife/units/eltireans/Crusher.cfg:23
+#: Era_of_Strife/units/eltireans/Destroyer.cfg:24
+msgid "greatsword"
+msgstr ""
+
+#. [unit_type]: id=Dawnbringer, race=eltirean
+#: Era_of_Strife/units/eltireans/Dawnbringer.cfg:4
+msgid "Dawnbringer"
+msgstr ""
+
+#. [unit_type]: id=Infernal Master, race=eltirean
+#. [unit_type]: id=Dawnbringer, race=eltirean
+#. [unit_type]: id=Wind Rider, race=windelemental
+#. [unit_type]: id=Disciple, race=eltirean
+#: Era_of_Strife/units/eltireans/Infernal_Master.cfg:19
+#: Era_of_Strife/units/eltireans/Dawnbringer.cfg:20
+#: Era_of_Strife/units/eltireans/Wind_Rider.cfg:18
+#: Era_of_Strife/units/eltireans/Disciple.cfg:18
+msgid "."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Strife/units/eltireans/Dawnbringer.cfg:29
+#: Era_of_Strife/units/eltireans/Lightbringer.cfg:27
+msgid "lightsword"
+msgstr ""
+
+#. [unit_type]: id=Destroyer, race=eltirean
+#: Era_of_Strife/units/eltireans/Destroyer.cfg:4
+msgid "Destroyer"
+msgstr ""
+
+#. [unit_type]: id=Disciple, race=eltirean
+#: Era_of_Strife/units/eltireans/Disciple.cfg:4
+msgid "Disciple of Eltire"
+msgstr ""
+
+#. [unit_type]: id=Elementalist, race=eltirean
+#: Era_of_Strife/units/eltireans/Elementalist.cfg:4
+msgid "Elementalist"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:52
+#: Era_of_Strife/units/eltireans/Hydromonger.cfg:48
+#: Era_of_Strife/units/eltireans/Elementalist.cfg:45
+#: Era_of_Strife/units/eltireans/Hydromancer.cfg:43
+msgid "cold shards"
+msgstr ""
+
+#. [unit_type]: id=Frostwalker, race=eltirean
+#: Era_of_Strife/units/eltireans/Frostwalker.cfg:4
+msgid "Frostwalker"
+msgstr ""
+
+#. [unit_type]: id=Glory Seeker, race=eltirean
+#: Era_of_Strife/units/eltireans/Gloryseeker.cfg:4
+msgid "Glory Seeker"
+msgstr ""
+
+#. [unit_type]: id=Glory Seeker, race=eltirean
+#: Era_of_Strife/units/eltireans/Gloryseeker.cfg:18
+msgid ""
+"Those that lack skill with magic or faith in the machinations of the "
+"overlords often become warriors, these young men are called Glory Seekers."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:33
+#: Era_of_Strife/units/eltireans/Sky_Captain.cfg:37
+#: Era_of_Strife/units/eltireans/Patrol_Captain.cfg:37
+#: Era_of_Strife/units/eltireans/Lady_Fury.cfg:32
+#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:35
+#: Era_of_Strife/units/eltireans/Gloryseeker.cfg:34
+#: Era_of_Strife/units/eltireans/Sky_Lord.cfg:38
+#: Era_of_Strife/units/eltireans/Lady_War.cfg:33
+#: Era_of_Strife/units/eltireans/Lady_Siren.cfg:35
+msgid "bowgun"
+msgstr ""
+
+#. [unit_type]: id=Hydromancer, race=eltirean
+#: Era_of_Strife/units/eltireans/Hydromancer.cfg:4
+msgid "Hydromancer"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:43
+#: Era_of_Strife/units/eltireans/Hydromonger.cfg:39
+#: Era_of_Strife/units/eltireans/Hydromancer.cfg:34
+msgid "hydroblast"
+msgstr ""
+
+#. [unit_type]: id=Hydromonger, race=eltirean
+#: Era_of_Strife/units/eltireans/Hydromonger.cfg:4
+msgid "Hydromonger"
+msgstr ""
+
+#. [unit_type]: id=Infernal Master, race=eltirean
+#: Era_of_Strife/units/eltireans/Infernal_Master.cfg:4
+msgid "Infernal Master"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Strife/units/eltireans/Infernal_Master.cfg:24
+#: Era_of_Strife/units/eltireans/Pyromancer.cfg:23
+msgid "firestaff"
+msgstr ""
+
+#. [unit_type]: id=Knight Errant, race=eltirean
+#: Era_of_Strife/units/eltireans/Knight_Errant.cfg:4
+msgid "Knight Errant"
+msgstr ""
+
+#. [unit_type]: id=Knight Errant, race=eltirean
+#: Era_of_Strife/units/eltireans/Knight_Errant.cfg:18
+msgid ""
+"Extremely talented warriors who come to the barracks are instead taken to "
+"the monasteries of Eltire, where they are learned the secrets of effective "
+"fighting and especially defense. After that they are accepted to the council "
+"guard and equipped with the best armor available to the Eltirean people."
+msgstr ""
+
+#. [unit_type]: id=Guardian of the Sun, race=eltirean
+#: Era_of_Strife/units/eltireans/Knight_Guardian.cfg:4
+msgid "Guardian of the Sun"
+msgstr ""
+
+#. [unit_type]: id=Guardian of the Sun, race=eltirean
+#. [unit_type]: id=Knight of the Sun, race=eltirean
+#: Era_of_Strife/units/eltireans/Knight_Guardian.cfg:19
+#: Era_of_Strife/units/eltireans/Knight_Sun.cfg:18
+msgid ""
+"Extremely talented warriors who come to the barracks are instead taken to "
+"the monasteries of Eltire, where they are learned the secrets of effective "
+"fighting and especially defense. After that they are accepted to the council "
+"guard and equiped with the best armor available to the Eltirean people."
+msgstr ""
+
+#. [unit_type]: id=Knight of the Sun, race=eltirean
+#: Era_of_Strife/units/eltireans/Knight_Sun.cfg:4
+msgid "Knight of the Sun"
+msgstr ""
+
+#. [unit_type]: id=Fury, race=eltirean
+#: Era_of_Strife/units/eltireans/Lady_Fury.cfg:4
+msgid "Fury"
+msgstr ""
+
+#. [unit_type]: id=Raging Mistress, race=eltirean
+#. [unit_type]: id=Fury, race=eltirean
+#. [unit_type]: id=Temptress, race=eltirean
+#. [unit_type]: id=Ladyofwar, race=eltirean
+#. [unit_type]: id=Siren, race=eltirean
+#: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:19
+#: Era_of_Strife/units/eltireans/Lady_Fury.cfg:18
+#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:18
+#: Era_of_Strife/units/eltireans/Lady_War.cfg:19
+#: Era_of_Strife/units/eltireans/Lady_Siren.cfg:18
+msgid ""
+"Eltirean women usually abandon their melee capabilities in favor of "
+"mastering the bowgun, which are very small semi-automatic one hand crossbow "
+"created by Eltirean engineers. These weapons are so small and spiked that "
+"they can be used in melee fights."
+msgstr ""
+
+#. [attack]: type=pierce
+#. [attack]: type=blade
+#: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:24
+#: Era_of_Strife/units/eltireans/Lady_Fury.cfg:23
+#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:23
+#: Era_of_Strife/units/eltireans/Lady_War.cfg:24
+#: Era_of_Strife/units/eltireans/Lady_Siren.cfg:23
+msgid "stiletto"
+msgstr ""
+
+#. [unit_type]: id=Raging Mistress, race=eltirean
+#: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:4
+msgid "Raging Mistress"
+msgstr ""
+
+#. [unit_type]: id=Siren, race=eltirean
+#: Era_of_Strife/units/eltireans/Lady_Siren.cfg:4
+msgid "Siren"
+msgstr ""
+
+#. [unit_type]: id=Temptress, race=eltirean
+#: Era_of_Strife/units/eltireans/Lady_Temptress.cfg:4
+msgid "Temptress"
+msgstr ""
+
+#. [unit_type]: id=Ladyofwar, race=eltirean
+#: Era_of_Strife/units/eltireans/Lady_War.cfg:5
+msgid "Lady o`War"
+msgstr ""
+
+#. [unit_type]: id=Lightbringer, race=eltirean
+#: Era_of_Strife/units/eltireans/Lightbringer.cfg:4
+msgid "Lightbringer"
+msgstr ""
+
+#. [unit_type]: id=Patrol Captain, race=eltirean
+#: Era_of_Strife/units/eltireans/Patrol_Captain.cfg:4
+msgid "Patrol Captain"
+msgstr ""
+
+#. [unit_type]: id=Pyromancer, race=eltirean
+#: Era_of_Strife/units/eltireans/Pyromancer.cfg:4
+msgid "Pyromancer"
+msgstr ""
+
+#. [unit_type]: id=Sky Captain, race=eltirean
+#: Era_of_Strife/units/eltireans/Sky_Captain.cfg:4
+msgid "Sky Captain"
+msgstr ""
+
+#. [unit_type]: id=Sky Lord, race=eltirean
+#: Era_of_Strife/units/eltireans/Sky_Lord.cfg:4
+msgid "Sky Lord"
+msgstr ""
+
+#. [unit_type]: id=Sky Lord, race=eltirean
+#: Era_of_Strife/units/eltireans/Sky_Lord.cfg:19
+msgid ""
+"Those not skilled with magic nor faithful enough who wish to be part of "
+"Eltirean forces become the warriors. Of course it won't be on the flying "
+"isles if there wasn't some magic included but the warriors use the magic in "
+"the form of enchanted weapons and armor. The adepts in barracks are often "
+"called the Glory skylords when they come to be trained."
+msgstr ""
+
+#. [unit_type]: id=Whirlpool Lord, race=eltirean
+#: Era_of_Strife/units/eltireans/Whirlpool_Lord.cfg:4
+msgid "Whirlpool Lord"
+msgstr ""
+
+#. [unit_type]: id=Wind Rider, race=windelemental
+#: Era_of_Strife/units/eltireans/Wind_Rider.cfg:4
+msgid "Wind Rider"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Strife/units/eltireans/Wind_Strider.cfg:24
+#: Era_of_Strife/units/eltireans/Wind_Rider.cfg:23
+msgid "wind punch"
+msgstr ""
+
+#. [unit_type]: id=Wind Strider, race=windelemental
+#: Era_of_Strife/units/eltireans/Wind_Strider.cfg:4
+msgid "Wind Strider"
+msgstr ""
+
+#. [unit_type]: id=ArcaneArcher, race=human
+#: Era_of_Strife/units/eventide/ArcaneArcher.cfg:4
+msgid "Arcane Archer"
+msgstr ""
+
+#. [unit_type]: id=ArcaneArcher, race=human
+#: Era_of_Strife/units/eventide/ArcaneArcher.cfg:18
+msgid ""
+"Although their weapons are not particularly potent against undead, "
+"Bowmaidens occasionally find themselves placed in garrisons where the dead "
+"still linger. A select group of maidens have chosen to forgo the  "
+"inhibitions of Eventide and study magic other than that of light and "
+"darkness.For their crimes they have been Stripped of their ability to cast "
+"light. These Archers instead rely on their newfound knowledge of magic in "
+"order to fight."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Strife/units/eventide/ArcaneArcher.cfg:42
+msgid "arcane arrow"
+msgstr ""
+
+#. [unit_type]: id=Auxilary, race=human
+#: Era_of_Strife/units/eventide/Auxilary.cfg:4
+msgid "Auxiliary"
+msgstr ""
+
+#. [unit_type]: id=Auxilary, race=human
+#: Era_of_Strife/units/eventide/Auxilary.cfg:17
+msgid ""
+"Not all Eventide are warriors by nature. However, when the bells of war call "
+"out every town under the Eventide's control still will send men and women to "
+"bolster the defense of their nation. These untrained soldiers are given a "
+"spear and often sent to hold positions away from the front line as a reserve "
+"force."
+msgstr ""
+
+#. [unit_type]: id=Desperado, race=human
+#: Era_of_Strife/units/eventide/Desperado.cfg:5
+msgid "Desperado"
+msgstr ""
+
+#. [unit_type]: id=Desperado, race=human
+#: Era_of_Strife/units/eventide/Desperado.cfg:17
+msgid ""
+"The criminal and the insane are not wasted in Eventide society. Rather than "
+"execute or lock up their dangerous individuals, they are used in the "
+"military. Given cheap and easy to replace weapons, these Desperados make "
+"exceptional scouts."
+msgstr ""
+
+#. [unit_type]: id=DiuBowmaid, race=human
+#: Era_of_Strife/units/eventide/Diu_Bowmaid.cfg:4
+msgid "Diu Bowmaiden"
+msgstr ""
+
+#. [unit_type]: id=DiuBowmaid, race=human
+#: Era_of_Strife/units/eventide/Diu_Bowmaid.cfg:19
+msgid ""
+"Carrying the light of day and the few remnants of honor that Diura embodied "
+"into combat, these brave women grace the battlefield with their sliver-"
+"tipped arrows. Graceful and durable, they nevertheless are not trained in "
+"melee combat and fare poorly in close quarters."
+msgstr ""
+
+#. [unit_type]: id=DiuBowMistress, race=human
+#: Era_of_Strife/units/eventide/Diu_Bowmistress.cfg:4
+msgid "Diu Bowmistress"
+msgstr ""
+
+#. [unit_type]: id=DiuBowMistress, race=human
+#: Era_of_Strife/units/eventide/Diu_Bowmistress.cfg:18
+msgid ""
+"When a Bowmaiden has been recognized for her skill in archery, she is "
+"stripped of her gray robe in a long ritual and presented with a robe of "
+"silver and white. Normally this is done in the presence of her friends and "
+"family, but often this formality is forgone while on the battlefield."
+msgstr ""
+
+#. [unit_type]: id=DiuKeenshot, race=human
+#: Era_of_Strife/units/eventide/Diu_Keenshot.cfg:4
+msgid "Diu Keenshot"
+msgstr ""
+
+#. [unit_type]: id=DiuKeenshot, race=human
+#: Era_of_Strife/units/eventide/Diu_Keenshot.cfg:19
+msgid ""
+"In every generation, only a handful of Bowmaidens have been recognized by "
+"their peers as being exceptional in both ability and temperament. These few "
+"are recognized by their peers as the paragon of their culture, and are "
+"gifted a robe of pure gold thread to signify the brilliance that they bring "
+"with them in every step."
+msgstr ""
+
+#. [unit_type]: id=Dreadlord, race=human
+#: Era_of_Strife/units/eventide/Dreadlord.cfg:4
+msgid "Dreadlord"
+msgstr ""
+
+#. [unit_type]: id=Dreadlord, race=human
+#: Era_of_Strife/units/eventide/Dreadlord.cfg:19
+msgid ""
+"Dreadlords harken back to the golden age, bringing back memories of the "
+"brutal rule that the nobility of Noct used over their subjects before the "
+"disaster. In person they are said to be relentless and terrifying. In "
+"combat, this virtue is multiplied severalfold."
+msgstr ""
+
+#. [unit_type]: id=EventideAlchemist, race=human
+#: Era_of_Strife/units/eventide/EventideAlchemist.cfg:4
+msgid "Eventide Alchemist"
+msgstr ""
+
+#. [unit_type]: id=EventideAlchemist, race=human
+#: Era_of_Strife/units/eventide/EventideAlchemist.cfg:21
+msgid ""
+"When an Herbalist has proven his loyalty to the Eventide, his superiors will "
+"offer to teach him the prized secret of the Alchemist's guild, how to make "
+"'palmfire.' This potent substance can be spread across any weapon that will "
+"not melt or burn, immediately setting aflame when it is struck soundly.\n"
+"\n"
+"Alchemists find themselves able to use this newfound weapon to great "
+"effect. \n"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Strife/units/eventide/EventidePoisoner.cfg:49
+#: Era_of_Strife/units/eventide/EventideAlchemist.cfg:39
+msgid "flaming sword"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Strife/units/eventide/EventidePoisoner.cfg:37
+#: Era_of_Strife/units/eventide/EventideAlchemist.cfg:48
+#: Era_of_Strife/units/eventide/EventideHerbalist.cfg:38
+msgid "poisoned dagger"
+msgstr ""
+
+#. [unit_type]: id=EventideHerbalist, race=human
+#: Era_of_Strife/units/eventide/EventideHerbalist.cfg:4
+msgid "Eventide Herbalist"
+msgstr ""
+
+#. [unit_type]: id=EventideHerbalist, race=human
+#: Era_of_Strife/units/eventide/EventideHerbalist.cfg:20
+msgid ""
+"The second foe the Eventide faced in their fervor for revenge were the "
+"elves. Faced with an opponent to whom day and night ment nothing, the "
+"Eventide were forced to find a new way to fight. One man, a local herbalist, "
+"suggested that they use an extract from a particularily potent type of plant "
+"local to their new home as a poison.\n"
+"\n"
+"From that time on, the Eventide have always had a select group of men who "
+"have been trained from an early age in the proper use and application of "
+"said poison. Members of this group would attack their enemies far away, with "
+"knives."
+msgstr ""
+
+#. [unit_type]: id=EventidePoisoner, race=human
+#: Era_of_Strife/units/eventide/EventidePoisoner.cfg:4
+msgid "Eventide Poisoner"
+msgstr ""
+
+#. [unit_type]: id=EventidePoisoner, race=human
+#: Era_of_Strife/units/eventide/EventidePoisoner.cfg:19
+msgid ""
+"When faced with foes who have similarly eliminated their fear of both day "
+"and night, the Eventide do not balk at using other means to achieve their "
+"goal of complete conquest. From deep within (their cities), men and woman "
+"from less scruptulous professions are enlisted, their ability with blades "
+"and their knowlage of poison highly regarded in military use. "
+msgstr ""
+
+#. [unit_type]: id=Lineman, race=human
+#: Era_of_Strife/units/eventide/Lineman.cfg:4
+msgid "Lineman"
+msgstr ""
+
+#. [unit_type]: id=Lineman, race=human
+#: Era_of_Strife/units/eventide/Lineman.cfg:19
+msgid ""
+"Occasionally a lineman shows valor above and beyond his station. Offered a "
+"commission and given a job as a full-time soldier (as well as a pension), "
+"many Auxillaries who survive the brutal wars that (this faction) initiates "
+"find themselves living a very comfortable life. Of course, that is provided "
+"they live long enough to enjoy it."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Strife/units/eventide/Lineman.cfg:47
+msgid "thrown spear"
+msgstr ""
+
+#. [female]
+#: Era_of_Strife/units/eventide/Lineman.cfg:88
+msgid "Linewoman"
+msgstr ""
+
+#. [unit_type]: id=Madcap, race=human
+#: Era_of_Strife/units/eventide/Madcap.cfg:4
+msgid "Madcap"
+msgstr ""
+
+#. [unit_type]: id=Madcap, race=human
+#: Era_of_Strife/units/eventide/Madcap.cfg:17
+msgid ""
+"Few Desperados escape death on the battlefield, however those few, rare, "
+"tough-as-nails individuals are referred to by their peers and commanders as "
+"a 'Madcap.'"
+msgstr ""
+
+#. [unit_type]: id=Mariner, race=human
+#: Era_of_Strife/units/eventide/Mariner.cfg:4
+msgid "Mariner"
+msgstr ""
+
+#. [unit_type]: id=Mariner, race=human
+#: Era_of_Strife/units/eventide/Mariner.cfg:16
+msgid ""
+"All members of the Eventide whose profession involves ships learn to swim "
+"very well at a young age. In times of war, their swimming ability is often "
+"put to the test. Although they feel comfortable on land, no Mariner ever "
+"truly feels at home when not near the water."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Strife/units/eventide/Mariner.cfg:21
+#: Era_of_Strife/units/eventide/Navigator.cfg:22
+#: Era_of_Strife/units/eventide/Swabbie.cfg:37
+msgid "cutlass"
+msgstr ""
+
+#. [unit_type]: id=Navigator, race=human
+#: Era_of_Strife/units/eventide/Navigator.cfg:4
+msgid "Navigator"
+msgstr ""
+
+#. [unit_type]: id=Navigator, race=human
+#: Era_of_Strife/units/eventide/Navigator.cfg:17
+msgid ""
+"All members of the Eventide whose profession involves ships learn to swim "
+"very well at a young age. In times of war, their swimming ability is often "
+"put to the test. Although they feel comfortable on land, no Navigator ever "
+"truly feels at home when not near the water."
+msgstr ""
+
+#. [unit_type]: id=NoctGuardian, race=human
+#: Era_of_Strife/units/eventide/Noct_Guardian.cfg:4
+msgid "Guardian of Noct"
+msgstr ""
+
+#. [unit_type]: id=NoctGuardian, race=human
+#: Era_of_Strife/units/eventide/Noct_Guardian.cfg:19
+msgid ""
+"Of all Noct soldiers, only a select elite who have proven their worth in a "
+"multitude of battles are told deepest secrets of the Macelord order. Some "
+"say it is a means of keeping the strongest on top of the macelord order, but "
+"others claim that only the strongest of wills can bear to hear the secrets "
+"kept from the common Eventide soldier."
+msgstr ""
+
+#. [unit_type]: id=NoctMacelord, race=human
+#: Era_of_Strife/units/eventide/Noct_Macelord.cfg:4
+msgid "Noct Macelord"
+msgstr ""
+
+#. [unit_type]: id=NoctMacelord, race=human
+#: Era_of_Strife/units/eventide/Noct_Macelord.cfg:18
+msgid ""
+"In Noct, the title of Macelord was only given to those who had shown "
+"excellence in battle. In this fasion, the Eventide have maintained their "
+"heritage and only give the title of Macelord to exceptional individuals."
+msgstr ""
+
+#. [unit_type]: id=NoctMaceman, race=human
+#: Era_of_Strife/units/eventide/Noct_Maceman.cfg:4
+msgid "Noct Maceman"
+msgstr ""
+
+#. [unit_type]: id=NoctMaceman, race=human
+#: Era_of_Strife/units/eventide/Noct_Maceman.cfg:18
+msgid ""
+"These ruthless warriors harken back to the terrible reign of the Noct "
+"overlords, brutal nobles who used threats of punishments so terrible that "
+"their armies would rather run headlong into combat than face their masters. "
+"While this terrible method of invigorating troops has long been discarded by "
+"the eventide, the reputation of a Noct Maceman has not. "
+msgstr ""
+
+#. [unit_type]: id=Swabbie, race=human
+#: Era_of_Strife/units/eventide/Swabbie.cfg:4
+msgid "Swabbie"
+msgstr ""
+
+#. [unit_type]: id=Swabbie, race=human
+#: Era_of_Strife/units/eventide/Swabbie.cfg:32
+msgid ""
+"All members of the Eventide whose profession involves ships learn to swim "
+"very well at a young age. In times of war, their swimming ability is often "
+"put to the test. Although they feel comfortable on land, no Swabbie ever "
+"truly feels at home when not near the water."
+msgstr ""
+
+#. [unit_type]: id=Gnoll, race=gnolls
+#: Era_of_Strife/units/gnolls/Gnoll.cfg:4
+msgid "Gnoll"
+msgstr ""
+
+#. [unit_type]: id=Gnoll, race=gnolls
+#. [unit_type]: id=Gnoll Sharpshooter, race=gnolls
+#: Era_of_Strife/units/gnolls/Gnoll.cfg:17
+#: Era_of_Strife/units/gnolls/Gnoll_Sharpshooter.cfg:17
+msgid "TODO"
+msgstr ""
+
+#. [unit_type]: id=Gnoll Sharpeye, race=gnolls
+#: Era_of_Strife/units/gnolls/Gnoll_Sharpeye.cfg:4
+msgid "Sharpeye"
+msgstr ""
+
+#. [unit_type]: id=Gnoll Sharpeye, race=gnolls
+#: Era_of_Strife/units/gnolls/Gnoll_Sharpeye.cfg:19
+msgid ""
+"The Gnoll Sharpeyes have perfected their grand art of archery and have "
+"become somewhat adept in the use of thier swords. Eventhough most of the "
+"Gnolls spend most of their time attacking in the swamps the Sharpeyes "
+"sometimes participate in battle outside of the swamps. Nonetheless, these "
+"creatures take pride in their art, especially when using it to kill."
+msgstr ""
+
+#. [unit_type]: id=Gnoll Sharpshooter, race=gnolls
+#: Era_of_Strife/units/gnolls/Gnoll_Sharpshooter.cfg:4
+msgid "Keeneye"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Behemoth, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Behemoth.cfg:4
+msgid "Behemoth"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Behemoth, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Behemoth.cfg:20
+msgid ""
+"The Behemoths were minotaurs who committed crimes that are so severe (i.e. "
+"blasphemy), that not even death would be harsh enough to punish them. The "
+"process of turning something into an abomination such as this is so dark and "
+"secret that only the Elders, the goddess of the minotaurs, and a few people "
+"sneaky enough to witness the process without being caught know about it. It "
+"is rumored that the crystals are used in this process. \n"
+"\n"
+"Nonetheless, the Behemoths have been obviously driven into a state of "
+"supreme insanity, therefore only one adept in the magic of the minotaurs, or "
+"a person to whom the behemoth has been ordered to obey is able to control "
+"them. In addition, due to the modifications caused by the ritual, the "
+"Behemoths tend to move more swiftly than the rest of their brethren."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Strife/units/minotaurs/Behemoth.cfg:27
+#: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:28
+msgid "maul"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Ancient Behemoth, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:4
+msgid "Ancient Behemoth"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Ancient Behemoth, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:21
+msgid ""
+"Over time, the powerful, arcane magic which distorted the minotaur that "
+"became a Behemoth further distorts the minotaur. This distortion causes the "
+"Behemoth to grow, gain more strength and become much more insane. After a "
+"certain degree of distortion, the Behemoth becomes known as an Ancient "
+"Behemoth, which references the amount of time spent to become that "
+"distorted. An Ancient Behemoth is so mentally unstable, that it takes an "
+"Elder to safely give it commands and/or orders to obey certain people.\n"
+"\n"
+"Since an Ancient Behemoth is extremely dangerous, they are oft kept in "
+"enormous holding cells until needed; these cells are kept on the outskirts "
+"of minotaur cities for further safety measures. Also, they are kept there so "
+"that they can easily be used as an anti-siege weapon."
+msgstr ""
+
+#. [unit_type]: id=Boar Cataphract, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:4
+msgid "Cataphract"
+msgstr ""
+
+#. [unit_type]: id=Boar Cataphract, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:36
+msgid ""
+"Cataphracts are the elite of the boar-riding forces of the minotaur forces; "
+"they have a practically perfect bond with their companion which the rider "
+"often considers it to be his best friend. Even though Cataphracts use their "
+"spears effectively, their true power still lies in their companion. It is "
+"unknown how a sentient and non-sentient creature such as a boar could have "
+"such a powerful bond and have effective communications. These qualities make "
+"the Cataphracts a terrifyingly powerful force to be reckoned."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Strife/units/minotaurs/Boar_Rider.cfg:53
+#: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:53
+#: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:54
+msgid "trample"
+msgstr ""
+
+#. [unit_type]: id=Boar Knight, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:4
+msgid "Boar Knight"
+msgstr ""
+
+#. [unit_type]: id=Boar Knight, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:35
+msgid ""
+"Boar Riders who know how to use their companions to their full potential are "
+"promoted to Boar Knights. While Boar Knights carry regular weapons, their "
+"real potential lies in the strength of their companion, due to their "
+"evergrowing bond."
+msgstr ""
+
+#. [unit_type]: id=Boar Rider, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Boar_Rider.cfg:4
+msgid "Boar Rider"
+msgstr ""
+
+#. [unit_type]: id=Boar Rider, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Boar_Rider.cfg:35
+msgid ""
+"Boar Riders mainly serve as scouts for the minotaur forces; however, they "
+"also work well in battle. Boar Riders attack by trying to impale their "
+"enemies or by using their enormous companions to crush them."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Gore, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore.cfg:4
+msgid "Gore"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Gore, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore.cfg:17
+msgid ""
+"The Gores are basically new recruits in the minotaur infantry or simply "
+"militia defending their territory."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Overlord, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore_Overlord.cfg:4
+msgid "Overlord"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Overlord, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore_Overlord.cfg:24
+msgid ""
+"A minotaur that has been recognized for their skill, leadership ability and "
+"intelligence is bestowed the title of 'overlord'. Basically the overlord "
+"rank is the minotaur equivalent to the human rank of general. Overlords plan "
+"all the battle strategies and whatnot, and unlike human generals, overlords "
+"sometimes willingly participate directly in battle in order to further "
+"inspire their comrades to perform their best. In addition, overlords wield "
+"crossbows in order to strike enemies from afar, especially enemies about to "
+"kill a comrade. These amazing qualities make these elites majestic sights to "
+"behold."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Rouser, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore_Rouser.cfg:4
+msgid "Rouser"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Rouser, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore_Rouser.cfg:22
+msgid ""
+"The Rousers are the elite of the minotaur infantry who seek either "
+"generalship or executionership; their bravery is derived from the desire to "
+"obtain higher ranks in minotaur society."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Savage, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore_Savage.cfg:4
+msgid "Savage"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Savage, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Gore_Savage.cfg:19
+msgid ""
+"Unlike the rousers, savages have decided to take on a reputation of fear "
+"rathern than leadership. The reason savages are dreaded is because it "
+"appears that savages have reverted to their primal instincts which are "
+"absolutely terrifying in the eyes of those who do not know about the "
+"minotaurs well. These frightening aspects appear to affect the enemy in a "
+"negative manner which will actually physically weaken them."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Cutthroat, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:5
+msgid "Cutthroat"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Cutthroat, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:19
+msgid ""
+"Kusarigamas are noble and highly useful weapons that are difficult to "
+"master. The cutthroats have gazed upon the power of a kusarigama master and "
+"they wish to achieve such mastery. Although cutthroats lack experience with "
+"their weapon they can still make some use of it."
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=impact
+#: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:30
+#: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:38
+#: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:31
+#: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:42
+#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:26
+#: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:34
+msgid "kusarigama"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Executioner, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:4
+msgid "Executioner"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Executioner, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:24
+msgid ""
+"Executioners are masters of the kusarigama, they have their own style of "
+"wielding it; instead of wielding it like a scythe, they prefer to wield it "
+"like a claw. Even though these powerful warriors will kill most of the "
+"enemies they face, they like to play it safe by poisoning their weapon. Most "
+"foolhardy archers think they can easily defeat an Executioner, however they "
+"likely have not been acquainted with the weight and chain that makes the "
+"kusarigama such an effective weapon."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Slayer, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:4
+msgid "Slayer"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Slayer, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:23
+msgid ""
+"Learning how to properly and effectively wield a kusarigama is pure "
+"drudgery; however that does not stop those eager to eventually gain the "
+"power and skill of a master. Since slayers are still learning how to have "
+"near-perfect control of their weapon they choose not to use poison like the "
+"executioners do. Slayers are not quite masters yet; however they are still "
+"quite skilled with their kusarigamas; therefore, slayers are not to be "
+"underestimated.."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Elder, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Elder.cfg:4
+msgid "Elder"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Elder, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Elder.cfg:22
+msgid ""
+"The Elders are incredibly powerful mages who represent the minotaur's "
+"goddess in the physical world, in addition they carry out her will. Their "
+"power comes from their incredible aura combined with the divine crystals "
+"which they wield. These crystals are very powerful and very different from "
+"the ones wielded by the Warlocks, as they can be used to summon and create "
+"different powers... they can even distort living beings. These powerful "
+"orcacles sacrificed their sight in order to gain the ability to see their "
+"goddess as she is invisible to most creatures. Although they cannot see "
+"through their eyes the can see through a newly acquired sense which is "
+"obtained through the ritual in which they lost their original sight."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Strife/units/minotaurs/Mage_Warlock.cfg:38
+#: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:39
+#: Era_of_Strife/units/minotaurs/Mage_Mystic.cfg:39
+#: Era_of_Strife/units/minotaurs/Mage_Elder.cfg:40
+msgid "aura blast"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Mystic, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Mystic.cfg:4
+msgid "Mystic"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Mystic, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Mystic.cfg:19
+msgid ""
+"Although the Warlocks and the Elders are more famous for their very lofty "
+"role, more powerful magic and the mysterious crystals which they wield, the "
+"Mystics are superior to the Warlocks and the Elders in a few ways. First "
+"they can levitate, such an ability is very useful in battle; second they are "
+"physically stronger than their counterparts; third they possess healing "
+"abilities. All these qualities make the Mystics a terrifying force on the "
+"battle field, therefore they should not be taken lightly."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Shaman, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:4
+msgid "Shaman"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Shaman, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Shaman.cfg:20
+msgid ""
+"The Minotaur Shamans hold a lofty position in minotaur society, they either "
+"pursue the quest as representatives of the minotaur's goddess or they pursue "
+"the amazing ability to levitate and healing. Even though these mages are "
+"lacking a bit of experience they are still powerful."
+msgstr ""
+
+#. [unit_type]: id=Minotaur Warlock, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Warlock.cfg:4
+msgid "Warlock"
+msgstr ""
+
+#. [unit_type]: id=Minotaur Warlock, race=minotaurs
+#: Era_of_Strife/units/minotaurs/Mage_Warlock.cfg:21
+msgid ""
+"The Minotaur Warlocks are very powerful mages that have a very important "
+"role in minotaur society; that role is to serve as conveyers of their "
+"goddess' words and to serve as her hands. Their vast power comes from their "
+"powerful aura combined with the crystals they wield."
+msgstr ""
+
+#. [unit_type]: id=Frozen Soul, race=undead
+#: Era_of_Strife/units/saurians/Frozen_Soul.cfg:4
+msgid "Frozen Soul"
+msgstr ""
+
+#. [unit_type]: id=Frozen Soul, race=undead
+#: Era_of_Strife/units/saurians/Frozen_Soul.cfg:19
+msgid ""
+"Frozen Souls are the souls of people and whatnot which are dreadully forced "
+"to serve their killers via the chilling, ethereal bindings which surround "
+"them..."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Strife/units/saurians/Frozen_Soul.cfg:23
+#: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:54
+#: Era_of_Strife/units/saurians/Ice_Heart.cfg:23
+msgid "frigid aura"
+msgstr ""
+
+#. [unit_type]: id=Ice Heart, race=undead
+#: Era_of_Strife/units/saurians/Ice_Heart.cfg:4
+msgid "Ice Heart"
+msgstr ""
+
+#. [unit_type]: id=Ice Heart, race=undead
+#: Era_of_Strife/units/saurians/Ice_Heart.cfg:19
+msgid ""
+"After enslaving many other souls with its ethereal bindings Ice Souls turn "
+"into more powerful creatures which are capable of producing more frigid "
+"blasts and can fly further distances than before."
+msgstr ""
+
+#. [unit_type]: id=Saurian Lizard Master, race=lizard
+#: Era_of_Strife/units/saurians/Lizard_Master.cfg:4
+msgid "Lizard Master"
+msgstr ""
+
+#. [unit_type]: id=Saurian Lizard Rider, race=lizard
+#: Era_of_Strife/units/saurians/Lizard_Rider.cfg:4
+msgid "Lizard Rider"
+msgstr ""
+
+#. [unit_type]: id=Saurian Assassin, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Assassin.cfg:4
+msgid "Saurian Assassin"
+msgstr ""
+
+#. [unit_type]: id=Saurian Elementalist, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:4
+msgid "Saurian Elementalist"
+msgstr ""
+
+#. [unit_type]: id=Saurian Healer, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Healer.cfg:4
+msgid "Saurian Healer"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Strife/units/saurians/Saurian_Holy.cfg:40
+#: Era_of_Strife/units/saurians/Saurian_Healer.cfg:39
+#: Era_of_Strife/units/saurians/Saurian_Mage.cfg:36
+msgid "cold wave"
+msgstr ""
+
+#. [unit_type]: id=Saurian Hero, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Hero.cfg:4
+msgid "Saurian Hero"
+msgstr ""
+
+#. [unit_type]: id=Saurian Holy, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Holy.cfg:4
+msgid "Saurian Holy"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Strife/units/saurians/Saurian_Holy.cfg:52
+msgid "sacred missile"
+msgstr ""
+
+#. [unit_type]: id=Saurian Ice Lord, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:4
+msgid "Saurian Ice Lord"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:46
+#: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:45
+#: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:45
+msgid "coldest wave"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:59
+#: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:58
+msgid "ice shards"
+msgstr ""
+
+#. [unit_type]: id=Saurian Knife thrower, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:4
+msgid "Saurian Knife thrower"
+msgstr ""
+
+#. [unit_type]: id=Saurian Mage, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Mage.cfg:4
+msgid "Saurian Mage"
+msgstr ""
+
+#. [unit_type]: id=Saurian Mage, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Mage.cfg:20
+msgid "Saurians which practice cold magic."
+msgstr ""
+
+#. [unit_type]: id=Saurian Mystic, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Mystic.cfg:4
+msgid "Saurian Mystic"
+msgstr ""
+
+#. [unit_type]: id=Saurian Sage, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Sage.cfg:4
+msgid "Saurian Sage"
+msgstr ""
+
+#. [unit_type]: id=Saurian Shockfrost, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:4
+msgid "Saurian Shockfrost"
+msgstr ""
+
+#. [unit_type]: id=Saurian Killer, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Skulker.cfg:4
+msgid "Saurian Skulker"
+msgstr ""
+
+#. [unit_type]: id=Saurian Frosty, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:4
+msgid "Saurian Soulmage"
+msgstr ""
+
+#. [unit_type]: id=Saurian Trainee, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:4
+msgid "Saurian Trainee"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:36
+msgid "throwing knives"
+msgstr ""
+
+#. [unit_type]: id=Saurian Warrior, race=lizard
+#: Era_of_Strife/units/saurians/Saurian_Warrior.cfg:4
+msgid "Saurian Warrior"
+msgstr ""
+
+#. [unit_type]: id=Free Spider, race=monster
+#: Era_of_Strife/units/saurians/Spider.cfg:4
+msgid "Spider"
+msgstr ""
+
+#. [unit_type]: id=Free Spider, race=monster
+#: Era_of_Strife/units/saurians/Spider.cfg:20
+msgid ""
+"Big wild Spiders living in the Swamps are tamed by the Saurians which want "
+"to make use of their poison. Hit by their poisonous byte enemies die a slow "
+"cruel death."
+msgstr ""
+
+#. [unit_type]: id=Swamp Fighter, race=lizard
+#: Era_of_Strife/units/saurians/Swamp_Fighter.cfg:4
+msgid "Swamp Fighter"
+msgstr ""
+
+#. [unit_type]: id=Swamp Guard, race=lizard
+#: Era_of_Strife/units/saurians/Swamp_Guard.cfg:4
+msgid "Swamp Guard"
+msgstr ""
+
+#. [unit_type]: id=Swamp Margrave, race=lizard
+#: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:4
+msgid "Swamp Margrave"
+msgstr ""
+
+#. [unit_type]: id=Swamp Saurian, race=lizard
+#: Era_of_Strife/units/saurians/Swamp_Saurian.cfg:4
+msgid "Swamp Saurian"
+msgstr ""
+
+#. [unit_type]: id=Swamp Warrior, race=lizard
+#: Era_of_Strife/units/saurians/Swamp_Warrior.cfg:4
+msgid "Swamp Warrior"
+msgstr ""
+
+#. [unit_type]: id=Free Tarantula, race=monster
+#: Era_of_Strife/units/saurians/Tarantula.cfg:4
+msgid "Tarantula"
+msgstr ""
