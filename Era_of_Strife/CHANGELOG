@@ -1,3 +1,14 @@
+v0.21
+Graphics:
+-Followed the mainline Great Renaming for portraits
+-Used some of the new mainline portraits by thespaceinvader
+Units:
+-the Swamp Saurian now has  26 HP, 6-2 blade melee 6 moves and 13 cost
+-the Swamp Fighter now has  35 HP, 8-3 blade melee 6 moves and 30 cost
+-the Swamp Warrior now has  50 HP,11-3 blade melee 6 moves and 60 cost
+-the Swamp Guard   now has  40 HP, 9-2 blade melee, 13-1 impact melee slows, 4 moves and 30 cost
+-the Swamp Margrave now has 60 HP,12-2 blade melee, 16-1 impact melee slows, 4 moves and 60 cost
+
 v0.20a
 -Fixed a translation issue.
 
