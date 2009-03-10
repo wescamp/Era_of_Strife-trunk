@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-02-09 22:04+0100\n"
+"POT-Creation-Date: 2009-03-10 23:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -884,20 +884,16 @@ msgstr ""
 msgid "Knight Errant"
 msgstr ""
 
+#. [unit_type]: id=Guardian of the Sun, race=eltirean
 #. [unit_type]: id=Knight Errant, race=eltirean
-#: ./Era_of_Strife/units/eltireans/Knight_Errant.cfg:18
+#. [unit_type]: id=Knight of the Sun, race=eltirean
+#: ./Era_of_Strife/units/eltireans/Knight_Guardian.cfg:19 ./Era_of_Strife/units/eltireans/Knight_Errant.cfg:18 ./Era_of_Strife/units/eltireans/Knight_Sun.cfg:18
 msgid "Extremely talented warriors who come to the barracks are instead taken to the monasteries of Eltire, where they are learned the secrets of effective fighting and especially defense. After that they are accepted to the council guard and equipped with the best armor available to the Eltirean people."
 msgstr ""
 
 #. [unit_type]: id=Guardian of the Sun, race=eltirean
 #: ./Era_of_Strife/units/eltireans/Knight_Guardian.cfg:4
 msgid "Guardian of the Sun"
-msgstr ""
-
-#. [unit_type]: id=Guardian of the Sun, race=eltirean
-#. [unit_type]: id=Knight of the Sun, race=eltirean
-#: ./Era_of_Strife/units/eltireans/Knight_Guardian.cfg:19 ./Era_of_Strife/units/eltireans/Knight_Sun.cfg:18
-msgid "Extremely talented warriors who come to the barracks are instead taken to the monasteries of Eltire, where they are learned the secrets of effective fighting and especially defense. After that they are accepted to the council guard and equiped with the best armor available to the Eltirean people."
 msgstr ""
 
 #. [unit_type]: id=Knight of the Sun, race=eltirean
@@ -1114,7 +1110,7 @@ msgstr ""
 
 #. [unit_type]: id=EventidePoisoner, race=human
 #: ./Era_of_Strife/units/eventide/EventidePoisoner.cfg:19
-msgid "When faced with foes who have similarly eliminated their fear of both day and night, the Eventide do not balk at using other means to achieve their goal of complete conquest. From deep within (their cities), men and woman from less scruptulous professions are enlisted, their ability with blades and their knowlage of poison highly regarded in military use. "
+msgid "When faced with foes who have similarly eliminated their fear of both day and night, the Eventide do not balk at using other means to achieve their goal of complete conquest. From deep within (their cities), men and woman from less scruptulous professions are enlisted, their ability with blades and their knowledge of poison highly regarded in military use. "
 msgstr ""
 
 #. [unit_type]: id=Lineman, race=human
@@ -1432,7 +1428,7 @@ msgstr ""
 
 #. [unit_type]: id=Frozen Soul, race=undead
 #: ./Era_of_Strife/units/saurians/Frozen_Soul.cfg:19
-msgid "Frozen Souls are the souls of people and whatnot which are dreadully forced to serve their killers via the chilling, ethereal bindings which surround them..."
+msgid "Frozen Souls are the souls of people and whatnot which are dreadfully forced to serve their killers via the chilling, ethereal bindings which surround them..."
 msgstr ""
 
 #. [attack]: type=cold
@@ -1572,7 +1568,7 @@ msgstr ""
 
 #. [unit_type]: id=Free Spider, race=monster
 #: ./Era_of_Strife/units/saurians/Spider.cfg:20
-msgid "Big wild Spiders living in the Swamps are tamed by the Saurians which want to make use of their poison. Hit by their poisonous byte enemies die a slow cruel death."
+msgid "Big wild Spiders living in the Swamps are tamed by the Saurians who want to make use of their poison. Hit by their poisonous bite, enemies die a slow cruel death."
 msgstr ""
 
 #. [unit_type]: id=Swamp Fighter, race=lizard
