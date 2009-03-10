@@ -1,3 +1,8 @@
+v0.22
+Units:
+-Followed the mainline reef rebalancing: land units' defence on reef now holds
+the middle between flat and shallow water.
+
 v0.21
 Graphics:
 -Followed the mainline Great Renaming for portraits
@@ -6,8 +11,10 @@ Units:
 -the Swamp Saurian now has  26 HP, 6-2 blade melee 6 moves and 13 cost
 -the Swamp Fighter now has  35 HP, 8-3 blade melee 6 moves and 30 cost
 -the Swamp Warrior now has  50 HP,11-3 blade melee 6 moves and 60 cost
--the Swamp Guard   now has  40 HP, 9-2 blade melee, 13-1 impact melee slows, 4 moves and 30 cost
--the Swamp Margrave now has 60 HP,12-2 blade melee, 16-1 impact melee slows, 4 moves and 60 cost
+-the Swamp Guard   now has  40 HP, 9-2 blade melee, 13-1 impact melee slows, 4
+moves and 30 cost
+-the Swamp Margrave now has 60 HP,12-2 blade melee, 16-1 impact melee slows, 4
+moves and 60 cost
 
 v0.20a
 -Fixed a translation issue.
@@ -32,16 +39,22 @@ Units:
 -Change Saurian Trainee's attacks:
 --shortsword -> dagger
 --thrown rock 6-1 -> throwing knives 3-2
--Changed the "Guardian of the Sun"'s second attack to 10-3 arcane ranged. Hopefully this is closer to what was intended.
+-Changed the "Guardian of the Sun"'s second attack to 10-3 arcane ranged.
+Hopefully this is closer to what was intended.
 -exchanged the HP of Assasin & Skulker
 Saurian re-/unbalcing:
--Saurian Elementalist now has 4-3(impact, melee) staff; 5-4(fire, ranged) fireball; 8-3(cold, ranged) frigid aura and only 30% fire/cold def.
+-Saurian Elementalist now has 4-3(impact, melee) staff; 5-4(fire, ranged)
+fireball; 8-3(cold, ranged) frigid aura and only 30% fire/cold def.
 -Soulmage has 4-2 melee
 -knife thrower now moves normal on fungus, has 29 HP(was 39) and costs 15g.
--Lizard Rider now has 39 HP, 7-2(impact, melee) tail and 5-3(blade, melee) axe as attacks 6MP and costs 16g.
-The Lizard Rider is now less of a scout, but I thing since you have the spider you don't need this scout. ~Lizard
--Lizard Master now has 47 HP, 15-2(impact, melee) tail, 11-3(blade, melee) axe and no ranged as attacks.
--Saurians no longer use the 'freesaurian' movetype but the mainline 'lizard' one.
+-Lizard Rider now has 39 HP, 7-2(impact, melee) tail and 5-3(blade, melee) axe
+as attacks 6MP and costs 16g.
+The Lizard Rider is now less of a scout, but I thing since you have the spider
+you don't need this scout. ~Lizard
+-Lizard Master now has 47 HP, 15-2(impact, melee) tail, 11-3(blade, melee) axe
+and no ranged as attacks.
+-Saurians no longer use the 'freesaurian' movetype but the mainline 'lizard'
+one.
 -Rewrote most of the minotaur unit tree.
 
 Bugs:
@@ -66,7 +79,9 @@ v0.18.a
 -Inline movetypes slated for centaur unit advancements.
 -Also placed a copy of the CFG file inside of the SVN so people don't need to
 write their own. >.> | They don't have to, _main.cfg does that. ~AI
--For some reason the Minotaur elder and executioner .cfg files are refusing to work. For now I've removed them (they are third level units after all). Once I solve the issue they will be returned.
+-For some reason the Minotaur elder and executioner .cfg files are refusing to
+work. For now I've removed them (they are third level units after all). Once I
+solve the issue they will be returned.
 
 ~Jamini
 0400.01.06.2008
@@ -79,7 +94,8 @@ some fixes to the saurians
 
 (note, what is the point of the v0.18 splits?)
 Triththa:
--Gave rusher line 2MP cost in shallow/swamp at cost of 1MP (still need a new plains-scout though)
+-Gave rusher line 2MP cost in shallow/swamp at cost of 1MP (still need a new
+plains-scout though)
 -Also reduced their HP by 7.
 -New descriptions and animations.
 -Ballista changed a bit (faster on plains), lowered defences.
@@ -136,7 +152,8 @@ First try to update ? hope i didnt screw up anything
 
 Eltireans:
 
--Lady of war ? removed defend only, made melee attack name "stiletto" and set 3-3 damage/number
+-Lady of war ? removed defend only, made melee attack name "stiletto" and set
+3-3 damage/number
 
 -Windrider ? race back to eltirean, set the only trait Elemental. Attack 7-2
 
@@ -167,13 +184,17 @@ Knight Errant Resistance(movetype):
 
 Elementalist cost: 21g
 
-Wind Rider Traits: Elemental - This unit cannot be poisoned, drained, or plagued.
+Wind Rider Traits: Elemental - This unit cannot be poisoned, drained, or
+plagued.
 Wind Rider HP: -5hp
 
 Lady 'o War Name: Something easier to say....
 Lady 'o War Melee Attack: Defense Only
-Lady 'o War Melee Attack Name: "Bayonet" (This must be changed! Two attacks with identical names screw up the animation filters.)
-Lady 'o War MP: -1 (Note, if this isn't done the Lady 'o War's L2's will be removed from the leader list due to abuse on many 2v2 maps. I forgot to mention that in my last pm)
+Lady 'o War Melee Attack Name: "Bayonet" (This must be changed! Two attacks with
+identical names screw up the animation filters.)
+Lady 'o War MP: -1 (Note, if this isn't done the Lady 'o War's L2's will be
+removed from the leader list due to abuse on many 2v2 maps. I forgot to mention
+that in my last pm)
 Lady 'o War Cost: 18g
 (Main unit line MP has been changed thoughout. Tempress still has 7MP)
 
@@ -199,7 +220,8 @@ Reduced Shieldman cost to 18
 Removed Charger from leader list
 
 Notes:
-This is a big step towards version a.1.0 folks. The intial release of EoS will be within a few days.
+This is a big step towards version a.1.0 folks. The intial release of EoS will
+be within a few days.
 
 0508.27.04.2008
 ~Jami
@@ -211,13 +233,15 @@ v0.12
 ~AI
 
 v0.11
--Fixed text found in gloryseeker and some of it's advancements that was causing a parse error and CTD.
+-Fixed text found in gloryseeker and some of it's advancements that was causing
+a parse error and CTD.
 
 02150.25.04.2008
 ~Jami
 
 v0.09
--Eltiearns added. A Major playtest is planned for this weekend as a pre-alpha blancing release.
+-Eltiearns added. A Major playtest is planned for this weekend as a pre-alpha
+blancing release.
 -Rusher image added
 -Lineman/Linewoman Image added.
 
@@ -225,7 +249,8 @@ v0.09
 ~Jami
 
 v0.08
--New Xbowman and smith standing frames. Changed Rusher movetype and increase guard cost (why?)
+-New Xbowman and smith standing frames. Changed Rusher movetype and increase
+guard cost (why?)
 ~Jami
 
 v0.07
@@ -239,10 +264,12 @@ v0.06
 -Reorganized files into a better folder system.
 -Altered Assassin Trait description to read more smoothly.
 -Altered Helpful Trait description to read more smoothly.
--Added in Guard Trait, with modifications. (Gives ZOC,Steadfast, 30%+10 HP to trainee, reduces moves by 1 and removes ranged attack.)
+-Added in Guard Trait, with modifications. (Gives ZOC,Steadfast, 30%+10 HP to
+trainee, reduces moves by 1 and removes ranged attack.)
 -Reduce Lizard Rider base HP to 35
 -Changed Bowmaiden Sprite Slightly
 -Changed Noct Maceman Sprite Slightly
--Added Agressive Trait for trainee. This gives them the Dread Special, +1 damage, and regenerates +4
+-Added Agressive Trait for trainee. This gives them the Dread Special, +1
+damage, and regenerates +4
 ~Jami
 
