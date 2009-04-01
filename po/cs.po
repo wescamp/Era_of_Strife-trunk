@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-10 23:00+0100\n"
-"PO-Revision-Date: 2008-12-30 17:34+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2009-03-07 14:38+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,27 +14,27 @@ msgstr ""
 #. [era]: id=era_default_extended_{EXTENDED_ERA_VERSION}_eom_{ERA_OF_MYTHS_VERSION}_strife_{ERA_OF_STRIFE_VERSION}
 #: Era_of_Strife/eras/default+extended+eom+eos.cfg:28
 msgid "Default+EE+EoM+EoS"
-msgstr ""
+msgstr "Standardní + EV + MV + VS"
 
 #. [era]: id=era_default_strife_{ERA_OF_STRIFE_VERSION}
 #: Era_of_Strife/eras/default+strife.cfg:4
 msgid "Default+Strife"
-msgstr ""
+msgstr "Standardní + Věk svárů"
 
 #. [era]: id=era_strife_power_{ERA_OF_STRIFE_VERSION}
 #: Era_of_Strife/eras/power.cfg:4
 msgid "Great Strife"
-msgstr ""
+msgstr "Velký věk svárů"
 
 #. [era]: id=era_strife_rpg_{ERA_OF_STRIFE_VERSION}
 #: Era_of_Strife/eras/rpg.cfg:4
 msgid "Strife RPG"
-msgstr ""
+msgstr "Věk svárů RPG"
 
 #. [era]: id=era_strife_{ERA_OF_STRIFE_VERSION}
 #: Era_of_Strife/eras/strife.cfg:4
 msgid "Era of Strife"
-msgstr ""
+msgstr "Věk svárů"
 
 #. [multiplayer_side]: id=eltireans, type=Raging Mistress
 #. [multiplayer_side]: id=eltireans, type=Ladyofwar
@@ -61,7 +61,7 @@ msgstr ""
 #: Era_of_Strife/factions/minotaur-strife.cfg:4
 #: Era_of_Strife/factions/minotaur-power.cfg:4
 msgid "Minotaurs"
-msgstr ""
+msgstr "Minotauři"
 
 #. [multiplayer_side]: id=saurians, type=Saurian Holy
 #. [multiplayer_side]: id=saurians, type=Saurian Mystic
@@ -70,7 +70,7 @@ msgstr ""
 #: Era_of_Strife/factions/saurian-strife.cfg:5
 #: Era_of_Strife/factions/saurian-rpg.cfg:4
 msgid "Free Saurians"
-msgstr ""
+msgstr "Svobodní ještěráci"
 
 #. [multiplayer_side]: id=triththa, type=TR Dwarvish Runesmith
 #. [multiplayer_side]: id=triththa, type=TR Dwarvish Runemaster
@@ -117,7 +117,7 @@ msgstr ""
 
 #: Era_of_Strife/macros/abilities.cfg:53 Era_of_Strife/macros/abilities.cfg:73
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: Era_of_Strife/macros/abilities.cfg:85 Era_of_Strife/macros/abilities.cfg:88
 msgid "dauntless"
@@ -132,7 +132,7 @@ msgstr ""
 
 #: Era_of_Strife/macros/abilities.cfg:115
 msgid "deluminates"
-msgstr ""
+msgstr "zatemnění"
 
 #: Era_of_Strife/macros/abilities.cfg:119
 msgid ""
@@ -143,6 +143,12 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dawn when it is "
 "day, and as if it were night when it is dawn."
 msgstr ""
+"Zatemnění:\n"
+"Tato jednotka zatemňuje okolní prostor, takže noční jednotky budou bojovat "
+"lépe a denní jednotky hůře.\n"
+"\n"
+"Jednotky na sousedních polích budou bojovat ve dne jako za svítání a během "
+"svítání jako v noci."
 
 #: Era_of_Strife/macros/abilities.cfg:128
 #: Era_of_Strife/macros/abilities.cfg:131
@@ -286,7 +292,7 @@ msgstr ""
 #. [advancement]: id=firepower
 #: Era_of_Strife/macros/amla.cfg:20
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #. [advancement]: id=armor
 #: Era_of_Strife/macros/amla.cfg:33
@@ -508,7 +514,7 @@ msgstr ""
 #. [race]: id=cuttlefish, description=
 #: Era_of_Strife/races/Cuttlefish.cfg:4 Era_of_Strife/races/Cuttlefish.cfg:5
 msgid "race^Cuttlefish"
-msgstr ""
+msgstr "Sépie"
 
 #. [race]: id=windelemental
 #: Era_of_Strife/races/Elemental.cfg:4
@@ -533,12 +539,12 @@ msgstr ""
 #. [race]: id=gnolls
 #: Era_of_Strife/races/Gnolls.cfg:4
 msgid "race^Gnoll"
-msgstr ""
+msgstr "Gnoll"
 
 #. [race]: id=gnolls
 #: Era_of_Strife/races/Gnolls.cfg:5
 msgid "race^Gnolls"
-msgstr ""
+msgstr "Gnollové"
 
 #. [race]: id=gnolls
 #: Era_of_Strife/races/Gnolls.cfg:8
@@ -549,16 +555,20 @@ msgid ""
 "with the Minotaurs, mainly due to the fact Minotaurs often hire Gnolls as "
 "mercenaries."
 msgstr ""
+"Gnollové jsou humanoidní hyeny, které žijí v bažinách Stříbrné země. Jsou "
+"známy pro svou schopnost dobré lukostřelby a pro dovednost se skrývat v "
+"bažinatém terénu. Gnollové se často spojují s minotaury, hlavně kvůli tomu, "
+"že si je minotauři často najímají jako žoldáky."
 
 #. [race]: id=minotaurs
 #: Era_of_Strife/races/Minotaurs.cfg:4
 msgid "race^Minotaur"
-msgstr ""
+msgstr "Minotaur"
 
 #. [race]: id=minotaurs
 #: Era_of_Strife/races/Minotaurs.cfg:5
 msgid "race^Minotaurs"
-msgstr ""
+msgstr "Minotauři"
 
 #. [race]: id=minotaurs
 #: Era_of_Strife/races/Minotaurs.cfg:12
@@ -644,7 +654,7 @@ msgstr ""
 #. [unit_type]: id=TR Dwarvish Ballista, race=mechanical
 #: Era_of_Strife/units/dwarves/Ballista.cfg:6
 msgid "Dwarvish Ballista"
-msgstr ""
+msgstr "Trpasličí balista"
 
 #. [unit_type]: id=TR Dwarvish Ballista, race=mechanical
 #: Era_of_Strife/units/dwarves/Ballista.cfg:25
@@ -657,6 +667,13 @@ msgid ""
 "The operators of ballistae like to tinker with their machines, which has a "
 "wide variety of results."
 msgstr ""
+"Balista je tvořena krajně účinnou kuší, přičemž zásah i jednou z jejích "
+"masivních šipek takřka vždy garantuje smrt zasaženého. Je to velká a "
+"těžkopádná zbraň, ale trpaslíkům se nějak daří jí přepravovat přes hory a "
+"dokonce skrz jeskyně.\n"
+"\n"
+"Obsluha balisty se ráda zapasovává k svému stroji, což má širokou škálu "
+"důsledků."
 
 #. [unit_type]: id=TR Dwarvish Charger, race=dwarf
 #: Era_of_Strife/units/dwarves/Charger.cfg:4
@@ -681,7 +698,7 @@ msgstr ""
 #: Era_of_Strife/units/saurians/Swamp_Guard.cfg:49
 #: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:50
 msgid "shield"
-msgstr ""
+msgstr "štít"
 
 #. [unit_type]: id=TR Dwarvish Compounder, race=dwarf
 #: Era_of_Strife/units/dwarves/Compounder.cfg:4
@@ -987,7 +1004,7 @@ msgstr ""
 #: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:26
 #: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:29
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [attack]: type=arcane
 #: Era_of_Strife/units/eltireans/Bishop.cfg:26
@@ -1036,7 +1053,7 @@ msgstr ""
 #: Era_of_Strife/units/eltireans/Wind_Rider.cfg:18
 #: Era_of_Strife/units/eltireans/Disciple.cfg:18
 msgid "."
-msgstr ""
+msgstr "."
 
 #. [attack]: type=arcane
 #: Era_of_Strife/units/eltireans/Dawnbringer.cfg:29
@@ -1567,14 +1584,14 @@ msgstr ""
 #. [unit_type]: id=Gnoll, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll.cfg:4
 msgid "Gnoll"
-msgstr ""
+msgstr "Gnoll"
 
 #. [unit_type]: id=Gnoll, race=gnolls
 #. [unit_type]: id=Gnoll Sharpshooter, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll.cfg:17
 #: Era_of_Strife/units/gnolls/Gnoll_Sharpshooter.cfg:17
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 #. [unit_type]: id=Gnoll Sharpeye, race=gnolls
 #: Era_of_Strife/units/gnolls/Gnoll_Sharpeye.cfg:4
@@ -1599,7 +1616,7 @@ msgstr ""
 #. [unit_type]: id=Minotaur Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth.cfg:4
 msgid "Behemoth"
-msgstr ""
+msgstr "Behemot"
 
 #. [unit_type]: id=Minotaur Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth.cfg:20
@@ -1617,12 +1634,24 @@ msgid ""
 "them. In addition, due to the modifications caused by the ritual, the "
 "Behemoths tend to move more swiftly than the rest of their brethren."
 msgstr ""
+"Behemoti jsou minotauři,kteří spáchali zločiny, které jsou tak hrozné (např. "
+"rouhání), že ani smrt pro ně není dost krutým trestem. Proces přeměny někoho "
+"v takovouto ohavnost je tak temný a tajemný, že pouze Starší, bohyně "
+"minotaurů a několik dalších jedinců, co proces tajně vypozorovalo a nebylo "
+"chyceno, o něm něco ví. Povídá se, že se v tomto procesu využívají "
+"krystaly.\n"
+"\n"
+"Nicméně behemoti byli zřejmě přivedeni do stavu svrchované šílenosti a proto "
+"je schopen je kontrolovat pouze buď jeden z adeptů magických umění minotaurů "
+"nebo osoba, ke které byla behemotům nakázana poslušnost. Navíc, vzhledem k "
+"změnám, co na nich rituál způsobil, mají behemoti sklon se pohybovat "
+"svižněji, než zbytek jejich bratří."
 
 #. [attack]: type=blade
 #: Era_of_Strife/units/minotaurs/Behemoth.cfg:27
 #: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:28
 msgid "maul"
-msgstr ""
+msgstr "trhání"
 
 #. [unit_type]: id=Minotaur Ancient Behemoth, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Behemoth_Ancient.cfg:4
@@ -1925,162 +1954,166 @@ msgstr ""
 #. [unit_type]: id=Saurian Lizard Master, race=lizard
 #: Era_of_Strife/units/saurians/Lizard_Master.cfg:4
 msgid "Lizard Master"
-msgstr ""
+msgstr "Pán ještěrů"
 
 #. [unit_type]: id=Saurian Lizard Rider, race=lizard
 #: Era_of_Strife/units/saurians/Lizard_Rider.cfg:4
 msgid "Lizard Rider"
-msgstr ""
+msgstr "Jezdec na ještěru"
 
 #. [unit_type]: id=Saurian Assassin, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Assassin.cfg:4
 msgid "Saurian Assassin"
-msgstr ""
+msgstr "Ještěrácký zabiják"
 
 #. [unit_type]: id=Saurian Elementalist, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Elementalist.cfg:4
 msgid "Saurian Elementalist"
-msgstr ""
+msgstr "Ještěrácký elementalista"
 
 #. [unit_type]: id=Saurian Healer, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Healer.cfg:4
 msgid "Saurian Healer"
-msgstr ""
+msgstr "Ještěrácký léčitel"
 
 #. [attack]: type=cold
 #: Era_of_Strife/units/saurians/Saurian_Holy.cfg:40
 #: Era_of_Strife/units/saurians/Saurian_Healer.cfg:39
 #: Era_of_Strife/units/saurians/Saurian_Mage.cfg:36
 msgid "cold wave"
-msgstr ""
+msgstr "vlna chladu"
 
 #. [unit_type]: id=Saurian Hero, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Hero.cfg:4
 msgid "Saurian Hero"
-msgstr ""
+msgstr "Ješterácký hrdina"
 
 #. [unit_type]: id=Saurian Holy, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Holy.cfg:4
 msgid "Saurian Holy"
-msgstr ""
+msgstr "Ještěrácký světec"
 
 #. [attack]: type=arcane
 #: Era_of_Strife/units/saurians/Saurian_Holy.cfg:52
 msgid "sacred missile"
-msgstr ""
+msgstr "svatá střela"
 
 #. [unit_type]: id=Saurian Ice Lord, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:4
 msgid "Saurian Ice Lord"
-msgstr ""
+msgstr "Ješterácký ledový lord"
 
 #. [attack]: type=cold
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:46
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:45
 #: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:45
 msgid "coldest wave"
-msgstr ""
+msgstr "vlna většího chladu"
 
 #. [attack]: type=pierce
 #: Era_of_Strife/units/saurians/Saurian_Ice_Lord.cfg:59
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:58
 msgid "ice shards"
-msgstr ""
+msgstr "ledová tříšť"
 
 #. [unit_type]: id=Saurian Knife thrower, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Knife_thrower.cfg:4
 msgid "Saurian Knife thrower"
-msgstr ""
+msgstr "Ještěrácký vrhač nožů"
 
 #. [unit_type]: id=Saurian Mage, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Mage.cfg:4
 msgid "Saurian Mage"
-msgstr ""
+msgstr "Ještěrácký mág"
 
 #. [unit_type]: id=Saurian Mage, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Mage.cfg:20
 msgid "Saurians which practice cold magic."
-msgstr ""
+msgstr "Ještěráci praktikující magii chladu."
 
 #. [unit_type]: id=Saurian Mystic, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Mystic.cfg:4
 msgid "Saurian Mystic"
-msgstr ""
+msgstr "Ještěrácký mystik"
 
 #. [unit_type]: id=Saurian Sage, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Sage.cfg:4
 msgid "Saurian Sage"
-msgstr ""
+msgstr "Ještěrácký mudrc"
 
 #. [unit_type]: id=Saurian Shockfrost, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Shockfrost.cfg:4
 msgid "Saurian Shockfrost"
-msgstr ""
+msgstr "Ještěrácký sesílač ledu"
 
 #. [unit_type]: id=Saurian Killer, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Skulker.cfg:4
 msgid "Saurian Skulker"
-msgstr ""
+msgstr "Ještěrácký skrývač"
 
 #. [unit_type]: id=Saurian Frosty, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Soulmage.cfg:4
 msgid "Saurian Soulmage"
-msgstr ""
+msgstr "Ještěrácký klerik"
 
 #. [unit_type]: id=Saurian Trainee, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:4
 msgid "Saurian Trainee"
-msgstr ""
+msgstr "Ještěrácký rekrut"
 
 #. [attack]: type=blade
 #: Era_of_Strife/units/saurians/Saurian_Trainee.cfg:36
 msgid "throwing knives"
-msgstr ""
+msgstr "vrhací nože"
 
 #. [unit_type]: id=Saurian Warrior, race=lizard
 #: Era_of_Strife/units/saurians/Saurian_Warrior.cfg:4
 msgid "Saurian Warrior"
-msgstr ""
+msgstr "Ještěrácký válečník"
 
 #. [unit_type]: id=Free Spider, race=monster
 #: Era_of_Strife/units/saurians/Spider.cfg:4
 msgid "Spider"
-msgstr ""
+msgstr "Pavouk"
 
 #. [unit_type]: id=Free Spider, race=monster
 #: Era_of_Strife/units/saurians/Spider.cfg:20
+#, fuzzy
 msgid ""
 "Big wild Spiders living in the Swamps are tamed by the Saurians who want to "
 "make use of their poison. Hit by their poisonous bite, enemies die a slow "
 "cruel death."
 msgstr ""
+"Velcí divocí pavouci z bažin jsou ochočováni ještěráky, kteří chtějí využít "
+"jejich schopnost otravy. Nepřátelé zasaženi pavoučím jedovatým kousnutím "
+"umírají pomalou krutou smrtí."
 
 #. [unit_type]: id=Swamp Fighter, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Fighter.cfg:4
 msgid "Swamp Fighter"
-msgstr ""
+msgstr "Bažinný bojovník"
 
 #. [unit_type]: id=Swamp Guard, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Guard.cfg:4
 msgid "Swamp Guard"
-msgstr ""
+msgstr "Bažinný strážce"
 
 #. [unit_type]: id=Swamp Margrave, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Margrave.cfg:4
 msgid "Swamp Margrave"
-msgstr ""
+msgstr "Bažinný markhrabě"
 
 #. [unit_type]: id=Swamp Saurian, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Saurian.cfg:4
 msgid "Swamp Saurian"
-msgstr ""
+msgstr "Bažinný ještěrák"
 
 #. [unit_type]: id=Swamp Warrior, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Warrior.cfg:4
 msgid "Swamp Warrior"
-msgstr ""
+msgstr "Bažinný válečník"
 
 #. [unit_type]: id=Free Tarantula, race=monster
 #: Era_of_Strife/units/saurians/Tarantula.cfg:4
 msgid "Tarantula"
-msgstr ""
+msgstr "Tarantule"
