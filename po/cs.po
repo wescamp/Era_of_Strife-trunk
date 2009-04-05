@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-10 23:00+0100\n"
-"PO-Revision-Date: 2009-03-07 14:38+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2009-04-05 20:58+0100\n"
+"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -105,7 +105,7 @@ msgstr ""
 #. [regenerate]: id=battletutor
 #: Era_of_Strife/macros/abilities.cfg:34
 msgid "battle tutor"
-msgstr ""
+msgstr "bojový instruktor"
 
 #. [regenerate]: id=battletutor
 #: Era_of_Strife/macros/abilities.cfg:36
@@ -114,6 +114,9 @@ msgid ""
 "This unit's ability to teach battle skills gives each adjacent allied unit a "
 "+1 to experience earned in battle."
 msgstr ""
+"Bojový instruktor:\n"
+"Schopnost této jednotky učit ostatní v bojových dovednostech přidává každé "
+"takové sousedící spřátelené jednotce po každém boji 1 bod zkušenosti."
 
 #: Era_of_Strife/macros/abilities.cfg:53 Era_of_Strife/macros/abilities.cfg:73
 msgid "1"
@@ -204,7 +207,7 @@ msgstr ""
 #: Era_of_Strife/macros/abilities.cfg:192
 #: Era_of_Strife/macros/abilities.cfg:208
 msgid "protection"
-msgstr ""
+msgstr "ochrana"
 
 #: Era_of_Strife/macros/abilities.cfg:194
 msgid ""
@@ -212,6 +215,9 @@ msgid ""
 "Adjacent units of this side receive a +10% bonus to all resistances (up to a "
 "maximum of 60%)."
 msgstr ""
+"Ochrana:\n"
+"Sousedící spřátelená jednotka získává bonus +10% k odolnosti vůči všem "
+"druhům útoku (maximálně však do hodnoty 60%)."
 
 #: Era_of_Strife/macros/abilities.cfg:210
 msgid ""
@@ -219,22 +225,29 @@ msgid ""
 "Adjacent units of this side receive a +20% bonus to all resistances (up to a "
 "maximum of 60%)."
 msgstr ""
+"Ochrana:\n"
+"Sousedící spřátelená jednotka získává bonus +20% k odolnosti vůči všem "
+"druhům útoku (maximálně však do hodnoty 60%)."
 
 #: Era_of_Strife/macros/abilities.cfg:222
 msgid "regenerates +"
-msgstr ""
+msgstr "vylepšená regenerace"
 
 #: Era_of_Strife/macros/abilities.cfg:224
 msgid ""
 "Regenerates:\n"
 "The unit will heal itself "
 msgstr ""
+"Vylepšená regenerace:\n"
+"Jednotka sama sobě vyléčí "
 
 #: Era_of_Strife/macros/abilities.cfg:224
 msgid ""
 " HP per turn. If it is poisoned, it will remove the poison instead of "
 "healing."
 msgstr ""
+" životů za kolo. Pokud byla otrávena, tak se místo léčení uzdraví se z "
+"otravy."
 
 #: Era_of_Strife/macros/abilities.cfg:235
 msgid "supplies"
@@ -250,7 +263,7 @@ msgstr ""
 #: Era_of_Strife/macros/abilities.cfg:249
 #: Era_of_Strife/macros/abilities.cfg:250
 msgid "swamp prowl"
-msgstr ""
+msgstr "bažinný slídič"
 
 #: Era_of_Strife/macros/abilities.cfg:254
 #: Era_of_Strife/macros/abilities.cfg:258
@@ -262,11 +275,17 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
+"Bažinný slídič:\n"
+"Jednotka se dokáže ukrýt v mokřině a zůstat nezpozorována svými nepřáteli.\n"
+"\n"
+"Nepřátelské jednotky nemohou tuto jednotku spatřit v mokřině, pouze jsou-li "
+"na sousedních polích. Nepřátelská jednotka, která ji nalezne jako první, "
+"ztrácí všechny své zbývající body pohybu."
 
 #: Era_of_Strife/macros/abilities.cfg:272
 #: Era_of_Strife/macros/abilities.cfg:277
 msgid "translucent"
-msgstr ""
+msgstr "průsvitný"
 
 #: Era_of_Strife/macros/abilities.cfg:276
 #: Era_of_Strife/macros/abilities.cfg:281
@@ -278,6 +297,12 @@ msgid ""
 "Enemy units cannot see this unit if it is hidden.  Any enemy unit that runs "
 "directly into this unit immediately loses all its remaining movement."
 msgstr ""
+"Průsvitný:\n"
+"Jednotka je neviditelná, pokud je alespoň 3 hexy vzdálená od všech "
+"jakýchkoli neprůsvitných jednotek.\n"
+"\n"
+"Nepřátelské jednotky nemohou tuto jednotku spatřit. Nepřátelská jednotka, "
+"která naběhne přímo k ní, ztrácí všechny své zbývající body pohybu."
 
 #. [advancement]: id=speed
 #: Era_of_Strife/macros/amla.cfg:7
@@ -379,17 +404,17 @@ msgstr ""
 #. [trait]: id=trait_elemental
 #: Era_of_Strife/macros/traits.cfg:43
 msgid "elemental"
-msgstr ""
+msgstr "elementální"
 
 #. [trait]: id=trait_elemental
 #: Era_of_Strife/macros/traits.cfg:44
 msgid "female^elemental"
-msgstr ""
+msgstr "elementální"
 
 #. [trait]: id=trait_elemental
 #: Era_of_Strife/macros/traits.cfg:45
 msgid "Immune to drain, poison and plague"
-msgstr ""
+msgstr "Odolnost vůči vysátí, jedu a nákaze"
 
 #. [trait]: id=trait_assassin
 #: Era_of_Strife/macros/traits.cfg:56
@@ -439,17 +464,17 @@ msgstr ""
 #. [trait]: id=trait_agressive
 #: Era_of_Strife/macros/traits.cfg:147
 msgid "aggressive"
-msgstr ""
+msgstr "agresivní"
 
 #. [trait]: id=trait_agressive
 #: Era_of_Strife/macros/traits.cfg:148
 msgid "female^aggressive"
-msgstr ""
+msgstr "agresivní"
 
 #. [trait]: id=trait_agressive
 #: Era_of_Strife/macros/traits.cfg:149
 msgid "Regenerates, has dread on melee."
-msgstr ""
+msgstr "Regeneruje a má děsivý útok na blízko."
 
 #. [berserk]
 #: Era_of_Strife/macros/weapon-specials.cfg:6
@@ -466,7 +491,7 @@ msgstr ""
 #: Era_of_Strife/macros/weapon-specials.cfg:24
 #: Era_of_Strife/macros/weapon-specials.cfg:25
 msgid "dread"
-msgstr ""
+msgstr "děsivý"
 
 #: Era_of_Strife/macros/weapon-specials.cfg:27
 #: Era_of_Strife/macros/weapon-specials.cfg:29
@@ -475,6 +500,8 @@ msgid ""
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
+"Děsivý:\n"
+"Pokud útočí, odvetné údery protivníka způsobí o třetinu menší zranění."
 
 #: Era_of_Strife/macros/weapon-specials.cfg:41
 msgid "leech"
@@ -490,7 +517,7 @@ msgstr ""
 
 #: Era_of_Strife/macros/weapon-specials.cfg:57
 msgid "soulbind"
-msgstr ""
+msgstr "vazač duší"
 
 #: Era_of_Strife/macros/weapon-specials.cfg:59
 #: Era_of_Strife/macros/weapon-specials.cfg:61
@@ -499,10 +526,13 @@ msgid ""
 "Units killed by this attack have their souls frozen in this world, bound to "
 "the will of their killer."
 msgstr ""
+"Vazač duší:\n"
+"Duše jednotek zabitých tímto útokem jsou zmrazeny v tomto světě, spoutány "
+"vůlí toho, kdo je zabil."
 
 #: Era_of_Strife/macros/weapon-specials.cfg:70
 msgid "defend only"
-msgstr ""
+msgstr "pouze k obraně"
 
 #: Era_of_Strife/macros/weapon-specials.cfg:72
 #: Era_of_Strife/macros/weapon-specials.cfg:74
@@ -510,6 +540,8 @@ msgid ""
 "Defend only:\n"
 "This attack is not available except on defense."
 msgstr ""
+"Pouze k obraně:\n"
+"Tuto zbraň lze využít pouze při obraně."
 
 #. [race]: id=cuttlefish, description=
 #: Era_of_Strife/races/Cuttlefish.cfg:4 Era_of_Strife/races/Cuttlefish.cfg:5
@@ -519,12 +551,12 @@ msgstr "Sépie"
 #. [race]: id=windelemental
 #: Era_of_Strife/races/Elemental.cfg:4
 msgid "race^Wind Elemental"
-msgstr ""
+msgstr "Větrní elementálové"
 
 #. [race]: id=windelemental
 #: Era_of_Strife/races/Elemental.cfg:5
 msgid "race^Elementals"
-msgstr ""
+msgstr "Elementálové"
 
 #. [race]: id=eltirean
 #: Era_of_Strife/races/Eltirean.cfg:4
@@ -596,7 +628,7 @@ msgstr ""
 #. [unit_type]: id=TR Armored Cuttle Fish, race=cuttlefish
 #: Era_of_Strife/units/cuttlefish/Armored.cfg:4
 msgid "Armored Cuttle Fish"
-msgstr ""
+msgstr "Obrněná sépie"
 
 #. [unit_type]: id=TR Armored Cuttle Fish, race=cuttlefish
 #: Era_of_Strife/units/cuttlefish/Armored.cfg:18
@@ -605,6 +637,9 @@ msgid ""
 "covered in steel, which makes it a much stronger opponent. Thankfully, it "
 "also makes it significantly slower."
 msgstr ""
+"Sépie jsou obrovská mořská stvoření. Tyto jsou částečně pokryty ocelovým "
+"brněním, což z nich dělá mnohem silnější protivníky. Naštěstí je to dělá i "
+"znatelně pomalejšími."
 
 #. [unit_type]: id=TR Young Cuttle Fish, race=cuttlefish
 #: Era_of_Strife/units/cuttlefish/Young.cfg:7
@@ -822,7 +857,7 @@ msgstr ""
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:27
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:24
 msgid "runic axe"
-msgstr ""
+msgstr "runová sekera"
 
 #. [attack]: type=impact
 #: Era_of_Strife/units/dwarves/Runesmith.cfg:23
@@ -830,7 +865,7 @@ msgstr ""
 #: Era_of_Strife/units/dwarves/Runefighter.cfg:36
 #: Era_of_Strife/units/dwarves/Runemaster.cfg:24
 msgid "runic hammer"
-msgstr ""
+msgstr "runové kladivo"
 
 #. [unit_type]: id=TR Dwarvish Runemaster, race=dwarf
 #: Era_of_Strife/units/dwarves/Runemaster.cfg:4
@@ -868,7 +903,7 @@ msgstr ""
 #. [unit_type]: id=TR Dwarvish Runewarrior, race=dwarf
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:4
 msgid "Dwarvish Runewarrior"
-msgstr ""
+msgstr "Trpasličí runový válečník"
 
 #. [unit_type]: id=TR Dwarvish Runewarrior, race=dwarf
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:19
@@ -878,11 +913,15 @@ msgid ""
 "throwing runic axes at their enemies, a sight that is usually followed by "
 "the death of the target."
 msgstr ""
+"Vzhledem k nákladnosti a pracnosti vytváření run je neobvyklé je vidět na "
+"vrhacích zbraních. Pouze u největších trpasličích válečníků bylo pozorováno, "
+"jak vrhají runové sekyrky na své nepřátele, načež obvykle následovala smrt "
+"těchto nepřátel."
 
 #. [attack]: type=blade
 #: Era_of_Strife/units/dwarves/Runewarrior.cfg:51
 msgid "runic hatchet"
-msgstr ""
+msgstr "runová sekyrka"
 
 #. [unit_type]: id=TR Dwarvish Rusher, race=dwarf
 #: Era_of_Strife/units/dwarves/Rusher.cfg:4
@@ -1010,7 +1049,7 @@ msgstr "..."
 #: Era_of_Strife/units/eltireans/Bishop.cfg:26
 #: Era_of_Strife/units/eltireans/Archbishop.cfg:27
 msgid "lightbeam"
-msgstr ""
+msgstr "paprsek světla"
 
 #. [unit_type]: id=Bishop, race=eltirean
 #: Era_of_Strife/units/eltireans/Bishop.cfg:4
@@ -1200,7 +1239,7 @@ msgstr ""
 #: Era_of_Strife/units/eltireans/Lady_War.cfg:24
 #: Era_of_Strife/units/eltireans/Lady_Siren.cfg:23
 msgid "stiletto"
-msgstr ""
+msgstr "stiletto"
 
 #. [unit_type]: id=Raging Mistress, race=eltirean
 #: Era_of_Strife/units/eltireans/Lady_Mistress.cfg:4
@@ -1298,7 +1337,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Strife/units/eventide/ArcaneArcher.cfg:42
 msgid "arcane arrow"
-msgstr ""
+msgstr "nezemská střela"
 
 #. [unit_type]: id=Auxilary, race=human
 #: Era_of_Strife/units/eventide/Auxilary.cfg:4
@@ -1407,14 +1446,14 @@ msgstr ""
 #: Era_of_Strife/units/eventide/EventidePoisoner.cfg:49
 #: Era_of_Strife/units/eventide/EventideAlchemist.cfg:39
 msgid "flaming sword"
-msgstr ""
+msgstr "plamenný meč"
 
 #. [attack]: type=blade
 #: Era_of_Strife/units/eventide/EventidePoisoner.cfg:37
 #: Era_of_Strife/units/eventide/EventideAlchemist.cfg:48
 #: Era_of_Strife/units/eventide/EventideHerbalist.cfg:38
 msgid "poisoned dagger"
-msgstr ""
+msgstr "otrávená dýka"
 
 #. [unit_type]: id=EventideHerbalist, race=human
 #: Era_of_Strife/units/eventide/EventideHerbalist.cfg:4
@@ -1503,12 +1542,13 @@ msgid ""
 "truly feels at home when not near the water."
 msgstr ""
 
+# nebo tesák
 #. [attack]: type=blade
 #: Era_of_Strife/units/eventide/Mariner.cfg:21
 #: Era_of_Strife/units/eventide/Navigator.cfg:22
 #: Era_of_Strife/units/eventide/Swabbie.cfg:37
 msgid "cutlass"
-msgstr ""
+msgstr "mačeta"
 
 #. [unit_type]: id=Navigator, race=human
 #: Era_of_Strife/units/eventide/Navigator.cfg:4
@@ -1697,7 +1737,7 @@ msgstr ""
 #: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:53
 #: Era_of_Strife/units/minotaurs/Boar_Cataphract.cfg:54
 msgid "trample"
-msgstr ""
+msgstr "dusání"
 
 #. [unit_type]: id=Boar Knight, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Boar_Knight.cfg:4
@@ -1729,7 +1769,7 @@ msgstr ""
 #. [unit_type]: id=Minotaur Gore, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore.cfg:4
 msgid "Gore"
-msgstr ""
+msgstr "Rohatec"
 
 #. [unit_type]: id=Minotaur Gore, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore.cfg:17
@@ -1737,6 +1777,8 @@ msgid ""
 "The Gores are basically new recruits in the minotaur infantry or simply "
 "militia defending their territory."
 msgstr ""
+"Rohatci jsou v podstatě noví rekruti minotauří pěchoty nebo jednoduše jen "
+"milice bránící svá teritoria."
 
 #. [unit_type]: id=Minotaur Overlord, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Overlord.cfg:4
@@ -1760,8 +1802,9 @@ msgstr ""
 #. [unit_type]: id=Minotaur Rouser, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Rouser.cfg:4
 msgid "Rouser"
-msgstr ""
+msgstr "Šikovatel"
 
+# executionership je opruz
 #. [unit_type]: id=Minotaur Rouser, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Rouser.cfg:22
 msgid ""
@@ -1769,11 +1812,14 @@ msgid ""
 "generalship or executionership; their bravery is derived from the desire to "
 "obtain higher ranks in minotaur society."
 msgstr ""
+"Šikovatelé jsou elitou minotauří pěchoty, kteří se rozhodli vyniknout buď ve "
+"velících nebo prováděcích schopnostech. Jejich statečnost je motivována "
+"touhou dosáhnout vyššího postavení v minotauří komunitě."
 
 #. [unit_type]: id=Minotaur Savage, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Savage.cfg:4
 msgid "Savage"
-msgstr ""
+msgstr "Divous"
 
 #. [unit_type]: id=Minotaur Savage, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Gore_Savage.cfg:19
@@ -1785,6 +1831,12 @@ msgid ""
 "minotaurs well. These frightening aspects appear to affect the enemy in a "
 "negative manner which will actually physically weaken them."
 msgstr ""
+"Na rozdíl od šikovatelů se divousi rozhodli založit svou reputaci spíše na "
+"strachu než na schopnosti velet. Důvodem, proč působí divousi děsivě je ten "
+"(aspoň tak se to jeví), že sami sebe navrátili ke svým základním instinktům. "
+"V očích těch, co minotaury moc dobře neznají, to pak působí naprosto "
+"hrozivě. Ukázalo se, že aspekt strachu působí na nepřátele negativně a "
+"skutečně je fyzicky oslabuje."
 
 #. [unit_type]: id=Minotaur Cutthroat, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:5
@@ -1800,6 +1852,8 @@ msgid ""
 "their weapon they can still make some use of it."
 msgstr ""
 
+# var. nagegama
+# nepřekládá se, tak se ta zbraň jmenuje
 #. [attack]: type=blade
 #. [attack]: type=impact
 #: Era_of_Strife/units/minotaurs/Kusarigama_Slayer.cfg:30
@@ -1809,7 +1863,7 @@ msgstr ""
 #: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:26
 #: Era_of_Strife/units/minotaurs/Kusarigama_Cutthroat.cfg:34
 msgid "kusarigama"
-msgstr ""
+msgstr "kusarigama"
 
 #. [unit_type]: id=Minotaur Executioner, race=minotaurs
 #: Era_of_Strife/units/minotaurs/Kusarigama_Executioner.cfg:4
@@ -2078,15 +2132,14 @@ msgstr "Pavouk"
 
 #. [unit_type]: id=Free Spider, race=monster
 #: Era_of_Strife/units/saurians/Spider.cfg:20
-#, fuzzy
 msgid ""
 "Big wild Spiders living in the Swamps are tamed by the Saurians who want to "
 "make use of their poison. Hit by their poisonous bite, enemies die a slow "
 "cruel death."
 msgstr ""
-"Velcí divocí pavouci z bažin jsou ochočováni ještěráky, kteří chtějí využít "
-"jejich schopnost otravy. Nepřátelé zasaženi pavoučím jedovatým kousnutím "
-"umírají pomalou krutou smrtí."
+"Velcí divocí pavouci, žijící v Bažinách, jsou ochočováni ještěráky, kteří "
+"chtějí využít jejich schopnost otravy. Nepřátelé zasaženi pavoučím jedovatým "
+"kousnutím umírají pomalou krutou smrtí."
 
 #. [unit_type]: id=Swamp Fighter, race=lizard
 #: Era_of_Strife/units/saurians/Swamp_Fighter.cfg:4
